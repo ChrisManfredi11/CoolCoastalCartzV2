@@ -1,0 +1,5816 @@
+@media screen  and (min-width:1280px){
+.garden-gallery-image img,.project-image  > img{
+	width:100%;
+}
+.cleaning-staff-video img {
+    height: auto;
+    max-width: 100%;
+}
+
+.plum-news-content h2 a{
+	font-size:17px;
+}
+
+}
+
+@media screen and (min-width:1025px) and (max-width:1279px) {
+.construction-submenu{
+	background:none;
+}
+.info-content h2{
+font-size:20px;
+
+}
+.construction-submenu{
+	background:none;
+}
+.info-content h4{
+font-size:13px;
+}
+.info-image{
+margin-right:0px;
+}
+.cleaning-top-bar ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+.service-slide-content{
+	padding-left:5%;
+}
+.slide-ser-paragraph{
+	width:74%;
+}
+.blue .slider-for .slick-next{
+	right:45.8% !important;
+}
+.client-message{
+	width:63%;
+}
+.charts .col-md-3{
+width:50%;
+margin-bottom:30px;
+}
+div.chart:last-child{
+	margin:0 auto;
+}
+.info-icon{
+	margin-right:10px;
+}
+.cleaning-footer .col-md-4{
+	padding-left:0px;
+	
+}
+.construction-top-bar ul li{
+	margin-right:30px;
+}
+.con-free-quote{
+	display:none;
+}
+.cons-vision-details{
+	width:95%;
+}
+.project-tabs li a{
+	margin-right:15px;
+}
+.cons-video-content{
+	width:76%;
+}
+.cons-counteer-image{
+	margin-right:2px;
+}
+.cons-latest-image{
+	margin-right:4px;
+}
+#gardening-navbar .navbar-brand{
+	margin-right:60px;
+}
+.gardening-nav li a{
+	margin-right:26px;
+}
+.garden-social-bar .dotted-border{
+	padding-left:6px;
+}
+.social-bar-contact-div h1{
+	font-size:25px;
+	
+}
+.callout-content a{
+	margin-left:0px;
+	margin-top:20px;
+}
+.garden-form{
+	width:auto;
+	padding:15px;
+	padding-bottom:0px;
+}
+.garden-client-content{
+	width:66%;
+}
+#gar-testi .slick-next{
+	left:35%;
+}
+#gar-testi .slick-prev{
+	left:32%;
+}
+.gar-widget {
+    float: left;
+    padding-left: 22px;
+    width: 250px;
+}
+.garden-social-widget p{
+	margin:27.5px 0px;
+}
+.info-icon-details p{
+	font-size:13px;
+}
+.plumbcallout-content a{
+	display:inline-block;
+	margin:20px 0px;
+}
+.plumb-history-image-inner .outer-image{
+	left:10px;
+}
+.plumb-client-message{
+	width:auto;
+	padding-right:10px;
+}
+.plum-news-content{
+	width:auto;
+}
+.plum-news-content h2 a{
+	font-size:16px;
+}
+.plum-news-main {
+    margin-bottom: 40px;
+   
+}
+.gardneer-personalinformation .cleaning-contact-info .info-icon{
+	margin-right:3px;
+}
+
+#garden-gallery-fullwidth .garden-gallery-image .gallery-border {
+  
+    height: calc(100% - 40px);
+   
+    margin: 20px;
+  
+    width: calc(100% - 40px);
+}
+.garden-detail-accordian ul li p{
+	width:44%;
+}
+.tab-right-side-content{
+	width:auto;
+	margin-top:30px;
+}
+.constructioncontactus-page-map-70,.constructioncontactus-page-map-30{
+	width:100%;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+}
+.construction-nav li a{
+	margin-right:36px;
+}
+.cleaning-aboutus-service-content{
+	width:63%;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	width:auto;
+}
+.cleaning-pricing-plan-style3-inner .hexagon:before, .cleaning-pricing-plan-style3-inner .hexagon:after {
+    border-left: 140px solid transparent;
+    border-right: 150px solid transparent;
+  
+}
+.cleaning-single-service-icon-outer {
+    margin-left:0px;
+    margin-top: 30px;
+    position: relative;
+    width: 50%;
+}
+.cleaning-blog-2col-content{
+	width:385px;
+}
+.cleaning-blog-full-width-page .cleaning-blog-2col-content {
+    width: 627.4px;
+}
+#cleaning-blog-grid-style .cleaning-blog-2col-content {
+    width: 75.8%;
+}
+.portfolio-detail-page-service-icon .cleaning-aboutus-service-content {
+    width: 80%;
+}
+.cleaning-portfolio-grid-style .garden-gallery-content h2 a {
+    font-size: 17px;
+}
+.plumb-blog-onecol-page .plum-news-main{
+	max-height:100%;
+}
+.plum-news-content{
+	padding:20px;
+}
+.plumbing-contactus-page-counter-section .col-md-3{
+	float:left;
+	width:50%;
+	margin-bottom:30px;
+}
+/* new changing */
+.cleaning-page-title,.cleaning-404-content,.our-clients,.cons-vision,.cleaning-blog-2col-page,.garden-news,.cleaning-portfolio-detail-page #portfolio-detail-page-about,.cleaning-portfolio-fullwidth-page,.cleaning-portfolio-grid-page{
+padding:50px 0px;
+}
+.cleaning-404,.cleaning-aboutus .padding-top-100,.cleaning-skills,.cleaning-aboutus-video-section,.cleaning-portfolio-detail-page{
+	padding-top:50px;
+}
+.cons-vision .padding-bottom-50,.cleaning-blog-2col-page .padding-bottom-50{
+	padding-bottom:10px;
+}
+.circle-bar-main-container .col-md-3{
+	width:50%;
+	margin-bottom:30px;
+}
+.circle-bar-main-container{
+	padding-bottom:80px;
+}
+.cleaning-aboutus{
+	padding-bottom:10px;
+}
+.circle-bar-main-container{
+	padding-bottom:40px;
+	padding-top:50px;
+}
+.portfolio-clients{
+	padding-bottom:50px;
+}
+.cleaning-skills .cleaning-title h1 {
+  
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cleaning-aboutus-video-section .cleaning-title{
+	padding-bottom:40px;
+}
+.cleaning-portfolio-grid-page .garden-pagination{
+	padding-top:20px;
+}
+.cleaning-portfolio-grid-page .cleaning-title h1,.cleaning-portfolio-fullwidth-page .cleaning-title h1{
+	font-size:40px;
+}
+.single-service-details .single-service-slider{
+	padding:50px 0px;
+}
+#cleaning-single-service .padding-bottom-100{
+	padding-bottom:50px;
+}
+#cleaning-single-service{
+	padding-top:50px;
+}
+#cleaning-single-service #cleaning-single-service  .padding-top-100,#cleaning-single-service{
+	padding-bottom:50px;
+}
+#cleaning-single-service  .padding-top-80{
+	padding-top:30px;
+}
+#cleaning-testimonial-section{
+	padding-bottom:0px;
+}
+#cleaning-skills{
+	padding-bottom:60px;
+}
+/*garden*/
+.garden-company-features {
+	padding-bottom:20px;
+	padding-top:40px;
+}
+
+#banner-slider3 .banner-item{
+	min-height:520px;
+}
+.garden-why-choose-main,.garden-info-content p,.gar-footer-title{
+	margin-bottom:50px;
+}
+.garden-gallery .garden-title,.garden-choose-inner-container .padding-top-100,.garden-team .garden-title{
+	padding-top:50px;
+}
+.garden-why-choose .garden-title{
+	padding:50px 0px !important;
+}
+.garden-title h1{
+	font-size:35px;
+}
+.garden-title h2{
+	font-size:22px;
+}
+.garden-why-choose-center-image{
+	display:none;
+}
+.garden-why-choose{
+	padding-bottom:0px;
+}
+.garden-form .garden-title,.garden-company-info .garden-title{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.garden-form{
+	padding-bottom:10px;
+}
+.garden-cmpany-awards .col-md-6 {
+    margin-bottom: 50px;
+}
+.garden-clients{
+	margin-top:140px;
+}
+.garden-title{
+	padding-left:30px;
+	padding-right:30px;
+}
+.footer-right-side {
+	padding-bottom:20px;
+}
+.garden-news .garden-title{
+padding-top:0px;
+}
+.garden-choose-inner-container .col-md-4{
+	width:50%;
+}
+.garden-choose-inner-container .padding-right-0 {
+    padding-right: 15px;
+}
+.garden-why-choose-main{
+	border-width:0px;
+}
+.section-res-404 .padding-bottom-100{
+padding-bottom:50px;
+}
+.section-res-404 .padding-top-100{
+padding-top:50px;
+}
+.backhome{
+	margin-top:50px;
+}
+.garden-all-services{
+	padding-bottom:10px;
+	padding-top:50px;
+}
+.service1{
+	margin-bottom:40px;
+}
+.garden-all-services .garden-feature h2 {
+    font-size: 22px;
+    
+}
+
+#garden-blog-2col .blog-main-container {
+   
+    margin-bottom: 30px;
+    min-height: auto;
+   
+}
+#garden-blog-2col .padding-bottom-50{
+	padding-bottom:0px;
+}
+#garden-blog-2col .garden-pagination{
+	margin-bottom:0px;
+	margin-top:20px;
+}
+.garden-contact-us-form{
+	padding-bottom:50px;
+}
+.abotus-counter-res .container{
+	padding:50px 0px !important;
+}
+.garden-gallery-fullwidth-res .module-title{
+	margin-bottom:50px;
+}
+.garden-gallery-fullwidth-res .garden-pagination {
+	padding-bottom:50px;
+	padding-top:20px;
+}
+.garden-one-service .garden-gallery-detail-title{
+	margin:30px 0px;
+}
+.garden-one-service .garden-service-tabber{
+	padding-bottom:50px;
+	padding-top:20px;
+}
+.garden-one-service{
+	padding-top:50px !important;
+}
+#garden-clients-res{
+	margin-top:0px;
+}
+.cons-clients-counter{
+	padding-bottom:50px;
+	padding-top:140px;
+}
+.counter-clients {
+    border: 1px solid #f1f1f1 !important;
+    margin: 10px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	display:none !important;
+}
+#garden-pagination-res{
+margin-top:30px;
+}
+.abou-pricing-top-res{
+padding:30px 0px;
+}
+.garden-pricing-tabel-page{
+	padding-bottom:50px;
+	padding-top:100px;
+}
+.garden-service-detail{
+	padding:50px 0px;
+}
+.garden-one-service-ser{
+	padding-top:0px !important;
+}
+.garden-one-service-ser .garden-one-service-details-title,.garden-one-service-ser .garden-one-service-details-small-title{
+	margin-bottom:30px !important;
+}
+.garden-one-service-ser .garden-one-service-details-title h1{
+	font-size:21px;
+	margin-bottom:6px;
+}
+.garden-testimonial-res-page{
+	padding:50px 0px;
+}
+.garden-testimonial-res-page .text-center{
+	padding-top:0px;
+}
+.garden-testimonial-res-page .testimonial-image-inner{
+	height:auto;
+	width:auto;
+}
+/*construction*/
+
+
+#banner-slider2:hover .slick-next,#banner-slider2:hover .slick-prev{
+	display:none !important;
+	
+}
+.cons-title h1{
+	
+	margin-bottom:10px;
+}
+.cons-vision{
+	padding-bottom:50px;
+}
+.cons-projects{
+	padding-top:40px;
+	padding-bottom:20px;
+}
+.cons-projects .module-title{
+	display:none;
+}
+.cons-do{
+	padding-bottom:0px;
+	padding-top:40px;
+}
+.cons-clients{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.cons-news,.cons-video,.cons-footer{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+.cons-video-content-container{
+	margin-bottom:40px;
+}
+
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:40px;
+}
+.cons-clients-counter .counter-main-container .col-md-3{
+	margin-bottom:30px;
+	display:none;
+	}
+.main-title2{
+	padding:50px 0px;
+	padding-bottom:40px;
+}
+.sectioncons-res{
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.cons-404 h2{
+	margin-top:30px;
+}
+.sectioncons-res .backhome2{
+	margin-top:30px;
+}
+.cons-404 h1{
+	margin-bottom:30px;
+}	
+.cons-aboutus-news{
+	padding-top:20px;
+	padding-bottom:50px;
+}
+.cons-vision-about-res{
+	padding-top:30px;
+	padding-bottom:0px;
+}	
+.cons-vision-ser-res{
+	padding-top:30px;
+	padding-bottom:0px;
+}
+.con-all-services-page{
+	padding:50px 0px;
+}
+.constructioncontactus-page{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info:last-child{
+	margin-bottom:0px;
+}
+.cons-project-one-page-res{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res #construction-pagination{
+	margin-top:20px;
+}
+.cons-project-one-page-res .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res2{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res2 #construction-pagination{
+	padding-top:50px;
+}
+.cons-project-one-page-res2 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res2 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res3{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res3 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res3 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res3 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project3-page{
+	margin-bottom:50px;
+}
+.cons-project-one-page-res4{
+	padding-top:40px !important;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res4 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-project3-image-title{
+	padding-top:0px;
+}
+.cons-project-one-page-res4 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res4 .cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-detail-page{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.con-project-detail-tabber .tab-right-side-content ul li{
+	margin-top:5px;
+}
+.construction-testimonial-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.construction-testimonial-outer{
+	margin-bottom:40px;
+}
+/*plumbing*/
+.plumb-hestory,.plumb-services,.plumb-team,.plumb-callout{
+	padding:50px 0px;
+}
+#plumb-projects{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-news {
+	padding-top:40px;
+	padding-bottom:10px;
+}
+.plumb-footer {
+   
+    padding-top: 50px;
+}
+.plum-image-widget {
+    margin-top: -34px;
+    position: relative;
+}
+.plum-news-main:last-child{
+	margin-bottom:0px !important;
+}
+.plumbing-title{
+	margin-bottom:30px;
+}
+.plumbing-title .view,#owl-testimonial2 .owl-nav,#owl-testimonial3 .owl-nav,.plumbing-title .view2{
+display:none;
+}
+
+.plumb-services .cbp-fwslider ul li > img{
+	height:auto;
+}
+.plumb-ser-tab-content .tab-pane h1{
+	margin-top:30px;
+}
+#plumb-projects .garden-gallery-content{
+	padding:10px;
+}
+
+#plumb-projects .garden-gallery-image img{
+	height:auto;
+}
+.ser-features{
+	margin-top:0px;
+}
+.pluming-page-title h1{
+	font-size:35px;
+}
+.pluming-page-title,.plumbing-404-page{
+	padding:50px 0px;
+}
+.plum-contact-info-res2,.plumbing-abot-page-skills,.plumb-about-page-counter{
+	padding:50px 0px;
+}
+.plumbing-abot-page-skills-content h1,.plumbing-abot-page-skills-content .cleaning-title h2{
+	font-size:28px !important;
+	margin-bottom:10px !important;
+	line-height:28px !important;
+}
+.plumbing-abot-page-skills-content p{
+	margin-top:20px !important;
+}
+.plumb-aboutus-page-clients{
+	padding-top:50px;
+}
+.plumb-blog-onecol-page{
+	padding-top:90px;
+	padding-bottom:50px;
+}
+
+.plumb-blog-onecol-page .plum-news-main{
+	padding-bottom:60px;
+}
+.plumb-blog-onecol-page .plum-news-main:last-child{
+	padding-bottom:20px !important;
+}
+.plumb-blog-onecol-page .plumb-news-inner {
+    margin-bottom: 30px;
+}
+.plumbing-col2-page{
+	padding:50px 0px;
+}
+.plumbing-col2-page .padding-bottom-50{
+	padding:0px;
+}
+.plumbing-col2-page .plumb-col2-outer{
+	margin-bottom:50px;
+}
+.plumbing-blog-2col-res{
+	padding-bottom:50px !important;
+}
+.plumbing-contactus-page-counter-section{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-contactus-info-section,.plumb-contactus-form-section{
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+.plumb-info-outer img,.plumb-info-outer-res{
+	display:none;
+	}
+.plumb-pricing-page{
+	padding-bottom:20px;
+	padding-top:50px;
+}	
+.plumbing-pagination-res{
+	padding-top:0px;
+}
+.plumbing-detail-page{
+	padding-top:50px;
+}
+
+.plumbing-related-projects {
+	padding:40px 0px;
+}	
+.plumb-team-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumb-team-page-section .plumb-team-member {
+    margin-bottom:50px;
+}
+.cleaning-portfolio-tabber{
+	display:none;
+}
+.cleaning-portfolio-fullwidth-page{
+	padding:30px 0px;
+}
+/*new changing*/
+.ggar-comments-box2 {
+    padding-left: 0;
+}
+.construction-social-inner-widget a .fa{
+	width:30px;
+	line-height:30px;
+	height:30px;
+}
+.cons-footer h3 a{
+	font-size:14px;
+}
+.cons-clients-counter-about-res{
+	padding-top:130px !important;
+}
+.cleaning-title h1 {
+    color: #303030;
+    font-size: 32px;
+    
+    margin: 0;
+}
+.cleaning-title2 p {
+    margin-bottom: 12px;
+}
+.plumb-client-message{
+	width:100%;
+	padding-bottom:20px;
+
+}
+}
+@media screen and (min-width:981px) and (max-width:1024px) {
+.plumb-client-message{
+	width:100%;
+	padding-bottom:20px;
+
+}
+.cleaning-title h1 {
+    color: #303030;
+    font-size: 32px;
+    
+    margin: 0;
+}
+.cleaning-title2 p {
+    margin-bottom: 12px;
+}
+.cleaning-portfolio-fullwidth-page{
+	padding:30px 0px;
+}
+.cleaning-portfolio-tabber{
+	display:none;
+}
+.info-content h2{
+font-size:20px;
+
+}
+.construction-submenu{
+	background:none;
+}
+.info-content h4{
+font-size:13px;
+}
+.info-image{
+margin-right:0px;
+}
+
+.cleaning-top-bar .col-md-5{
+	width:auto;
+}
+.cleaning-top-bar .col-md-7{
+	width:auto;
+}
+.service-slide-content{
+	padding-left:5%;
+}
+.slide-ser-paragraph{
+	width:74%;
+}
+.blue .slider-for .slick-next{
+	right:45.8% !important;
+}
+.client-message{
+	width:63%;
+}
+.charts .col-md-3{
+width:50%;
+margin-bottom:30px;
+}
+div.chart:last-child{
+	margin:0 auto;
+}
+.info-icon{
+	margin-right:10px;
+}
+.cleaning-footer .col-md-4{
+	padding-left:0px;
+	
+}
+.construction-top-bar ul li{
+	margin-right:30px;
+}
+.con-free-quote{
+	display:none;
+}
+.cons-vision-details{
+	width:95%;
+}
+.project-tabs li a{
+	margin-right:15px;
+}
+.cons-video-content{
+	width:76%;
+}
+.cons-counteer-image{
+	margin-right:2px;
+}
+.cons-latest-image{
+	margin-right:4px;
+}
+#gardening-navbar .navbar-brand{
+	margin-right:60px;
+}
+.gardening-nav li a{
+	margin-right:26px;
+}
+.garden-social-bar .dotted-border{
+	padding-left:6px;
+}
+.social-bar-contact-div h1{
+	font-size:25px;
+	
+}
+.callout-content a{
+	margin-left:0px;
+	margin-top:20px;
+}
+.garden-form{
+	width:auto;
+	padding:15px;
+	padding-bottom:0px;
+}
+.garden-client-content{
+	width:66%;
+}
+#gar-testi .slick-next{
+	left:35%;
+}
+#gar-testi .slick-prev{
+	left:32%;
+}
+.gar-widget {
+    float: left;
+    padding-left: 22px;
+    width: 250px;
+}
+.garden-social-widget p{
+	margin:27.5px 0px;
+}
+.info-icon-details p{
+	font-size:13px;
+}
+.plumbcallout-content a{
+	display:inline-block;
+	margin:20px 0px;
+}
+.plumb-history-image-inner .outer-image{
+	left:10px;
+}
+.plumb-client-message{
+	width:auto;
+	padding-right:10px;
+}
+.plum-news-content{
+	width:auto;
+}
+.plum-news-content h2 a{
+	font-size:16px;
+}
+.plum-news-main {
+    margin-bottom: 40px;
+   
+}
+.gardneer-personalinformation .cleaning-contact-info .info-icon{
+	margin-right:3px;
+}
+
+#garden-gallery-fullwidth .garden-gallery-image .gallery-border {
+  
+    height: calc(100% - 40px);
+   
+    margin: 20px;
+  
+    width: calc(100% - 40px);
+}
+.garden-detail-accordian ul li p{
+	width:44%;
+}
+.tab-right-side-content{
+	width:auto;
+	margin-top:30px;
+}
+.constructioncontactus-page-map-70,.constructioncontactus-page-map-30{
+	width:100%;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+}
+.construction-nav li a{
+	margin-right:36px;
+}
+.cleaning-aboutus-service-content{
+	width:63%;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	width:auto;
+}
+.cleaning-pricing-plan-style3-inner .hexagon:before, .cleaning-pricing-plan-style3-inner .hexagon:after {
+    border-left: 140px solid transparent;
+    border-right: 150px solid transparent;
+  
+}
+.cleaning-single-service-icon-outer {
+    margin-left:0px;
+    margin-top: 30px;
+    position: relative;
+    width: 50%;
+}
+.cleaning-blog-2col-content{
+	width:385px;
+}
+.cleaning-blog-full-width-page .cleaning-blog-2col-content {
+    width: 627.4px;
+}
+#cleaning-blog-grid-style .cleaning-blog-2col-content {
+    width: 75.8%;
+}
+.portfolio-detail-page-service-icon .cleaning-aboutus-service-content {
+    width: 80%;
+}
+.cleaning-portfolio-grid-style .garden-gallery-content h2 a {
+    font-size: 17px;
+}
+.plumb-blog-onecol-page .plum-news-main{
+	max-height:100%;
+}
+.plum-news-content{
+	padding:20px;
+}
+.plumbing-contactus-page-counter-section .col-md-3{
+	float:left;
+	width:50%;
+	margin-bottom:30px;
+}
+/* new changing */
+.cleaning-page-title,.cleaning-404-content,.our-clients,.cons-vision,.cleaning-blog-2col-page,.garden-news,.cleaning-portfolio-detail-page #portfolio-detail-page-about,.cleaning-portfolio-fullwidth-page,.cleaning-portfolio-grid-page{
+padding:50px 0px;
+}
+.cleaning-404,.cleaning-aboutus .padding-top-100,.cleaning-skills,.cleaning-aboutus-video-section,.cleaning-portfolio-detail-page{
+	padding-top:50px;
+}
+.cons-vision .padding-bottom-50,.cleaning-blog-2col-page .padding-bottom-50{
+	padding-bottom:10px;
+}
+.circle-bar-main-container .col-md-3{
+	width:50%;
+	margin-bottom:30px;
+}
+.circle-bar-main-container{
+	padding-bottom:80px;
+}
+.cleaning-aboutus{
+	padding-bottom:10px;
+}
+.circle-bar-main-container{
+	padding-bottom:40px;
+	padding-top:50px;
+}
+.portfolio-clients{
+	padding-bottom:50px;
+}
+.cleaning-skills .cleaning-title h1 {
+  
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cleaning-aboutus-video-section .cleaning-title{
+	padding-bottom:40px;
+}
+.cleaning-portfolio-grid-page .garden-pagination{
+	padding-top:20px;
+}
+.cleaning-portfolio-grid-page .cleaning-title h1,.cleaning-portfolio-fullwidth-page .cleaning-title h1{
+	font-size:40px;
+}
+.single-service-details .single-service-slider{
+	padding:50px 0px;
+}
+#cleaning-single-service .padding-bottom-100{
+	padding-bottom:50px;
+}
+#cleaning-single-service{
+	padding-top:50px;
+}
+#cleaning-single-service #cleaning-single-service  .padding-top-100,#cleaning-single-service{
+	padding-bottom:50px;
+}
+#cleaning-single-service  .padding-top-80{
+	padding-top:30px;
+}
+#cleaning-testimonial-section{
+	padding-bottom:0px;
+}
+#cleaning-skills{
+	padding-bottom:60px;
+}
+/*garden*/
+.garden-company-features {
+	padding-bottom:20px;
+	padding-top:40px;
+}
+
+#banner-slider3 .banner-item{
+	min-height:520px;
+}
+.garden-why-choose-main,.garden-info-content p,.gar-footer-title{
+	margin-bottom:50px;
+}
+.garden-gallery .garden-title,.garden-choose-inner-container .padding-top-100,.garden-team .garden-title{
+	padding-top:50px;
+}
+.garden-why-choose .garden-title{
+	padding:50px 0px !important;
+}
+.garden-title h1{
+	font-size:35px;
+}
+.garden-title h2{
+	font-size:22px;
+}
+.garden-why-choose-center-image{
+	display:none;
+}
+.garden-why-choose{
+	padding-bottom:0px;
+}
+.garden-form .garden-title,.garden-company-info .garden-title{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.garden-form{
+	padding-bottom:10px;
+}
+.garden-cmpany-awards .col-md-6 {
+    margin-bottom: 50px;
+}
+.garden-clients{
+	margin-top:140px;
+}
+.garden-title{
+	padding-left:30px;
+	padding-right:30px;
+}
+.footer-right-side {
+	padding-bottom:20px;
+}
+.garden-news .garden-title{
+padding-top:0px;
+}
+.garden-choose-inner-container .col-md-4{
+	width:50%;
+}
+.garden-choose-inner-container .padding-right-0 {
+    padding-right: 15px;
+}
+.garden-why-choose-main{
+	border-width:0px;
+}
+.section-res-404 .padding-bottom-100{
+padding-bottom:50px;
+}
+.section-res-404 .padding-top-100{
+padding-top:50px;
+}
+.backhome{
+	margin-top:50px;
+}
+.garden-all-services{
+	padding-bottom:10px;
+	padding-top:50px;
+}
+.service1{
+	margin-bottom:40px;
+}
+.garden-all-services .garden-feature h2 {
+    font-size: 22px;
+    
+}
+
+#garden-blog-2col .blog-main-container {
+   
+    margin-bottom: 30px;
+    min-height: auto;
+   
+}
+#garden-blog-2col .padding-bottom-50{
+	padding-bottom:0px;
+}
+#garden-blog-2col .garden-pagination{
+	margin-bottom:0px;
+	margin-top:20px;
+}
+.garden-contact-us-form{
+	padding-bottom:50px;
+}
+.abotus-counter-res .container{
+	padding:50px 0px !important;
+}
+.garden-gallery-fullwidth-res .module-title{
+	margin-bottom:50px;
+}
+.garden-gallery-fullwidth-res .garden-pagination {
+	padding-bottom:50px;
+	padding-top:20px;
+}
+.garden-one-service .garden-gallery-detail-title{
+	margin:30px 0px;
+}
+.garden-one-service .garden-service-tabber{
+	padding-bottom:50px;
+	padding-top:20px;
+}
+.garden-one-service{
+	padding-top:50px !important;
+}
+#garden-clients-res{
+	margin-top:0px;
+}
+.cons-clients-counter{
+	padding-bottom:50px;
+	padding-top:140px;
+}
+.counter-clients {
+    border: 1px solid #f1f1f1 !important;
+    margin: 10px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	display:none !important;
+}
+#garden-pagination-res{
+margin-top:30px;
+}
+.abou-pricing-top-res{
+padding:30px 0px;
+}
+.garden-pricing-tabel-page{
+	padding-bottom:50px;
+	padding-top:100px;
+}
+.garden-service-detail{
+	padding:50px 0px;
+}
+.garden-one-service-ser{
+	padding-top:0px !important;
+}
+.garden-one-service-ser .garden-one-service-details-title,.garden-one-service-ser .garden-one-service-details-small-title{
+	margin-bottom:30px !important;
+}
+.garden-one-service-ser .garden-one-service-details-title h1{
+	font-size:21px;
+	margin-bottom:6px;
+}
+.garden-testimonial-res-page{
+	padding:50px 0px;
+}
+.garden-testimonial-res-page .text-center{
+	padding-top:0px;
+}
+.garden-testimonial-res-page .testimonial-image-inner{
+	height:auto;
+	width:auto;
+}
+/*construction*/
+
+
+#banner-slider2:hover .slick-next,#banner-slider2:hover .slick-prev{
+	display:none !important;
+	
+}
+.cons-title h1{
+	
+	margin-bottom:10px;
+}
+.cons-vision{
+	padding-bottom:50px;
+}
+.cons-projects{
+	padding-top:40px;
+	padding-bottom:20px;
+}
+.cons-projects .module-title{
+	display:none;
+}
+.cons-do{
+	padding-bottom:0px;
+	padding-top:40px;
+}
+.cons-clients{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.cons-news,.cons-video,.cons-footer{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+.cons-video-content-container{
+	margin-bottom:40px;
+}
+
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:40px;
+}
+.cons-clients-counter .counter-main-container .col-md-3{
+	margin-bottom:30px;
+	display:none;
+	}
+.main-title2{
+	padding:50px 0px;
+	padding-bottom:40px;
+}
+.sectioncons-res{
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.cons-404 h2{
+	margin-top:30px;
+}
+.sectioncons-res .backhome2{
+	margin-top:30px;
+}
+.cons-404 h1{
+	margin-bottom:30px;
+}	
+.cons-aboutus-news{
+	padding-top:20px;
+	padding-bottom:50px;
+}
+.cons-vision-about-res{
+	padding-top:30px;
+	padding-bottom:0px;
+}	
+.cons-vision-ser-res{
+	padding-top:30px;
+	padding-bottom:0px;
+}
+.con-all-services-page{
+	padding:50px 0px;
+}
+.constructioncontactus-page{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info:last-child{
+	margin-bottom:0px;
+}
+.cons-project-one-page-res{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res #construction-pagination{
+	margin-top:20px;
+}
+.cons-project-one-page-res .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res2{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res2 #construction-pagination{
+	padding-top:50px;
+}
+.cons-project-one-page-res2 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res2 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res3{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res3 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res3 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res3 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project3-page{
+	margin-bottom:50px;
+}
+.cons-project-one-page-res4{
+	padding-top:40px !important;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res4 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-project3-image-title{
+	padding-top:0px;
+}
+.cons-project-one-page-res4 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res4 .cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-detail-page{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.con-project-detail-tabber .tab-right-side-content ul li{
+	margin-top:5px;
+}
+.construction-testimonial-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.construction-testimonial-outer{
+	margin-bottom:40px;
+}
+/*plumbing*/
+.plumb-hestory,.plumb-services,.plumb-team,.plumb-callout{
+	padding:50px 0px;
+}
+#plumb-projects{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-news {
+	padding-top:40px;
+	padding-bottom:10px;
+}
+.plumb-footer {
+   
+    padding-top: 50px;
+}
+.plum-image-widget {
+    margin-top: -34px;
+    position: relative;
+}
+.plum-news-main:last-child{
+	margin-bottom:0px !important;
+}
+.plumbing-title{
+	margin-bottom:30px;
+}
+.plumbing-title .view,#owl-testimonial2 .owl-nav,#owl-testimonial3 .owl-nav,.plumbing-title .view2{
+display:none;
+}
+
+.plumb-services .cbp-fwslider ul li > img{
+	height:auto;
+}
+.plumb-ser-tab-content .tab-pane h1{
+	margin-top:30px;
+}
+#plumb-projects .garden-gallery-content{
+	padding:10px;
+}
+
+#plumb-projects .garden-gallery-image img{
+	height:auto;
+}
+.ser-features{
+	margin-top:0px;
+}
+.pluming-page-title h1{
+	font-size:35px;
+}
+.pluming-page-title,.plumbing-404-page{
+	padding:50px 0px;
+}
+.plum-contact-info-res2,.plumbing-abot-page-skills,.plumb-about-page-counter{
+	padding:50px 0px;
+}
+.plumbing-abot-page-skills-content h1,.plumbing-abot-page-skills-content .cleaning-title h2{
+	font-size:28px !important;
+	margin-bottom:10px !important;
+	line-height:28px !important;
+}
+.plumbing-abot-page-skills-content p{
+	margin-top:20px !important;
+}
+.plumb-aboutus-page-clients{
+	padding-top:50px;
+}
+.plumb-blog-onecol-page{
+	padding-top:90px;
+	padding-bottom:50px;
+}
+
+.plumb-blog-onecol-page .plum-news-main{
+	padding-bottom:60px;
+}
+.plumb-blog-onecol-page .plum-news-main:last-child{
+	padding-bottom:20px !important;
+}
+.plumb-blog-onecol-page .plumb-news-inner {
+    margin-bottom: 30px;
+}
+.plumbing-col2-page{
+	padding:50px 0px;
+}
+.plumbing-col2-page .padding-bottom-50{
+	padding:0px;
+}
+.plumbing-col2-page .plumb-col2-outer{
+	margin-bottom:50px;
+}
+.plumbing-blog-2col-res{
+	padding-bottom:50px !important;
+}
+.plumbing-contactus-page-counter-section{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-contactus-info-section,.plumb-contactus-form-section{
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+.plumb-info-outer img,.plumb-info-outer-res{
+	display:none;
+	}
+.plumb-pricing-page{
+	padding-bottom:20px;
+	padding-top:50px;
+}	
+.plumbing-pagination-res{
+	padding-top:0px;
+}
+.plumbing-detail-page{
+	padding-top:50px;
+}
+
+.plumbing-related-projects {
+	padding:40px 0px;
+}	
+.plumb-team-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumb-team-page-section .plumb-team-member {
+    margin-bottom:50px;
+}
+/*new changing*/
+.cleaning-staff,.cleaning-skills .padding-top-90{
+	padding-top:40px;
+}
+.cons-footer h3 a{
+	font-size:14px;
+}
+.cons-clients-counter-about-res{
+	padding-top:130px !important;
+}
+
+}
+
+/*--------------------media query max-width 979--------------------*/
+
+@media screen and (min-width:768px) and (max-width:980px){
+.plumb-client-message{
+	width:100%;
+	padding-bottom:20px;
+
+}
+.garden-all-services .service1  a  > img{
+	width:100%;
+}
+#plumb-projects .garden-gallery-image {
+    margin-bottom: 0px;
+}
+#plumb-projects  .garden-photo-gallery .garden-gallery-image {
+    float: left;
+    height: auto;
+    width: 50%;
+}
+.plumb-history-image-content .row .col-md-6{
+	 float: left;
+    width: 50%;
+
+}
+.garden-photo-gallery-res .garden-gallery-image {
+    height: 300px;
+    position: relative;
+}
+.garden-company-features .col-md-6 .row  .col-md-6{
+	width:50%;
+	float:left;
+	
+}
+.cleaning-staff .col-md-5{
+	    float: none;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.plumbing-project-detail-form .submit{
+	width:200px;
+}
+#plumbing-all-services .col-md-6 img{
+	width:100%;
+	height:auto;
+}
+
+.garden-cmpany-awards .col-md-6 {
+    float: left;
+    margin-bottom: 50px;
+    width: 45% !important;
+}
+.garden-company-core-features .col-md-6 {
+    margin-bottom: 5px;
+}
+.garden-company-features .padding-top-20 img{
+	width:100%;
+	height:auto;
+}
+
+.garden-service-tabber .col-md-7{
+	margin-bottom:50px;
+}
+.garden-service-tabber .col-md-7 img{
+	width:100%;
+}
+.garden-choose-inner-container .padding-right-0{
+	padding-right:10px;
+}
+.garden-choose-inner-container .padding-left-0{
+	padding-left:10px;
+}
+.cons-clients-counter-about-res{
+	padding-top:130px !important;
+}
+.cons-projects-detail-tab-content .tab-pane img{
+	width:100%;
+	height:auto;
+}
+.project-sidebar{
+	width:40%;
+}
+.cleaning-portfolio-fullwidth-page{
+	padding:50px 0px;
+	padding-bottom:20px;
+}
+.construction-submenu{
+	background:none;
+}
+.cleaning-top-bar ul li{
+	margin-right:35px;
+}
+.cleaning-top-bar ul li:last-child{
+width:100%;
+	
+}
+.cleaning-top-bar ul li:last-child {
+    margin-top: 10px;
+    text-align: right;
+    width: 91%;
+}
+.cleaning-nav li a{
+	padding:20px 26px;
+}
+.cleaning-contact-info .col-md-4{
+	width:100%;
+	margin-bottom:30px;
+}
+.cleaning-service1{
+	text-align:left;
+	margin-bottom:50px;
+}
+.cleaning-services .col-md-6{
+	width:70%;
+	margin:0 auto;
+}
+.cleaning-staff-video{
+	margin-bottom:30px;
+}
+.progress-bar-image img{
+	width:100%;
+}
+.service-slide-image, .service-slide-content{
+	width:auto;
+	float:none;
+	}
+.blue .slider-for .slick-next{
+	right:43.3% !important;
+}	
+.clients-logo .row{
+	margin-bottom:0px;
+}
+.clients-logo .col-md-4{
+float: left;
+    margin-top: 20px;
+    width: auto;
+}
+.dark,.pricing-plan-details{
+	
+	margin-bottom:30px !important;
+}
+.dark{
+	
+	margin-bottom:40px !important;
+}
+div.chart:last-child {
+    margin: 0 auto;
+}
+.cleaning-footer .container{
+	top:0;
+}
+.construction-top-bar .col-md-8,.construction-top-bar .col-md-4{
+	width:auto;
+	float:left;
+}
+.construction-top-bar ul li{
+	margin-right:20px;
+}
+#construction-navbar .navbar-brand {
+    margin-right: 50px;
+    
+}
+.construction-nav li a{
+	margin-right:15px;
+}
+.con-free-quote{
+	display:none;
+}
+.cons-vision1{
+	
+}
+.cons-vision-details{
+	width:auto;
+}
+.cons-vision .col-md-4{
+	float:left;
+	width:50%;
+	margin-bottom:30px;
+}
+.project-tabs li{
+	display:list-item;
+	margin-bottom:20px;
+}
+.view-all-project{
+	float:none !important;
+}
+.tab-content .col-md-4{
+	float:left;
+	width:50%;
+}
+#cons-testi .slick-next{
+	right:10%;
+}
+#cons-testi .slick-prev{
+	left:10%;
+}
+.news-images-sections img{
+	width:100%;
+}
+.news-images-sections{
+	margin-bottom:30px;
+}
+.cons-main-video-container{
+	margin-top:30px;
+}
+.cons-footer-title{
+	margin-top:20px;
+}
+.counter-main-container .col-md-3,.counter-client-main-container .col-md-3{
+ float: left;
+    width: 50%;
+}
+.garden-det-quote a{
+	display:none;
+}
+.gardening-nav li a{
+	margin-right:20px;
+}
+#gardening-navbar .navbar-brand{
+	margin-right:60px;
+}
+#banner-slider3:hover .slick-next,#banner-slider3:hover .slick-prev{
+	display:none !important;
+	
+}
+.garden-social-bar:before{
+	right:0px;
+}
+.garden-social-bar .dotted-border{
+	border:1px dotted rgba(255,255,255,.2);
+	margin-bottom:5px;
+}
+.callout-content a{
+	margin-left:0px;
+	margin-top:20px;
+}
+.view-all-feature{
+	margin-bottom:20px;
+	display:inline-block;
+}
+#garden-gallery-fullwidth  .col-md-4, #garden-gallery-fullwidth  .col-md-3 {
+    float: left;
+    position: relative;
+    width: 50%;
+	height:auto;
+}
+.garden-gallery-image img{
+	width:100%;
+	height:auto;
+}
+.garden-why-choose-center-image{
+	margin:0px;
+	height:520px;
+}
+.width-40percent{
+	width:auto;
+	padding:15px;
+}
+.garden-form{
+	width:auto;
+	padding:0;
+}
+.width-68-percent{
+	width:100%;
+	padding:15px;
+}
+.garden-company-info{
+	width:auto;
+	margin:0px !important;
+}
+.garden-team-member {
+    float: left;
+    width: 25%;
+}
+.garden-client-content{
+	width:53%;
+}
+#gar-testi .slick-prev{
+	left:42%;
+}
+#gar-testi .slick-next{
+	left:46%;
+}
+.blog-main-container{
+	width:33%;
+	float:left;
+}
+.gar-widget {
+    float: left;
+    padding: 27px;
+    width: 100%;
+}
+.cl-fot-50,.cr-fot-50{
+	 width: 100% !important;
+	float:none !important;
+	height: 1024px;
+}
+.plumb-quote{
+	margin-right:7px;
+}
+.plumb-quote a{
+	width:150px;
+}
+.plumb-quote a:before{
+	width:158px;
+}
+.plumb-history-image{
+	margin-bottom:40px;
+	float:left;
+}
+.plumb-history-image-content{
+	width:auto;
+	float:left;
+}
+.plumb-history-image-content img,.plumb-ser img{
+	width:100%;
+}
+.plumb-tab-inner-slider{
+	margin-bottom:15px;
+}
+.plumbcallout-content a{
+	display:inline-block;
+	margin:20px 0px;
+}
+.plumb-news-inner{
+	margin-bottom:70px;
+}
+.plum-news-main:last-child .plumb-news-inner{
+	margin-bottom:0px;
+}
+.plum-image-widget{
+	margin-top:0px;
+}
+.plum-footer-widget{
+	margin-top:30px;
+}
+.garden-table{
+	margin-bottom:50px;
+	width:50%;
+	float:left;
+}
+.garden-table:nth-child(2){
+margin-bottom:80px;
+}
+.garden-table:last-child{
+	margin-bottom:0px;
+}
+.garden-testimonia{
+	width:60%;
+	float:left;
+}
+.testimonial-image{
+	width:40%;
+	float:left;
+}
+.garden-cmpany-awards .col-md-3{
+	width:50%;
+	float:left;
+}
+.about-read-more{
+	margin-bottom:30px;
+}
+#garden-blog-2col .blog-main-container{
+	width:50%;
+	float:left;
+	min-height:480px;
+}
+#garden-blog-2col .garden-blog-width-sidebar .blog-main-container{
+	width:100% !important;
+}
+.gardneer-personalinformation-contact-form{
+	margin-top:40px;
+}
+.gardneer-personalinformation-contact-form-title{
+	width:100%;
+}
+.gardneer-personalinformation .cleaning-contact-info {
+	margin-bottom:30px;
+}
+.garden-one-service,.garden-service-tabber .col-md-6{
+	margin-top:0px;
+}
+.garden-gallery-tabs li{
+	float:none;
+	margin-bottom:20px;
+	display:block;
+}
+.garden-gallery-tabs {
+	padding:0;
+}
+.garden-detail-accordian{
+	margin-bottom:30px;
+}
+.aboutus-page-news-details{
+	padding:30px;
+}
+#garden-blog-2col #cons-news-2col{
+	min-height: 550px;
+}
+.project-tab-content .cons-project1{
+	max-height:400px;
+}
+.cons-project3-image img{
+	width:100%;
+}
+.cons-project-detailpage-tabber ul li{
+	margin-bottom:10px;
+	border-right:1px solid #bfbfbf;
+}
+.cons-project-detailpage-tabber ul li:last-child{
+	margin-bottom:0px;
+}
+.tab-right-side-content{
+	width:auto;
+	margin-top:30px;
+}
+.constructioncontactus-page-map-70,.constructioncontactus-page-map-30{
+	width:100%;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+}
+.brochures-service-detail{
+	margin-bottom:30px;
+}
+.cons-service-detail-tab-content .tab-content .col-md-4 {
+    float: left;
+    width: 33%;
+}
+.con-feature-service-outer{
+	margin-bottom:30px;
+}
+.cleaning-title-name{
+	float:left;
+	width:50%;
+}
+.cleaning-404-content {
+	padding:30px;
+	padding-bottom:40px;
+}
+.progress-bar-image{
+	margin-top:60px;
+}
+.cleaning-aboutus-video-section:after{
+	height:140px;
+}
+.cleaning-pricing-plan-style2-outer{
+	float:left;
+	margin-bottom:30px;
+	width:50%;
+}
+
+.cleaning-pricing-plan-style2-inner:before{
+	width:100%;
+	border-left:none;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	margin:0 auto;
+	margin-bottom:150px;
+	margin-top:0px;
+}
+.cleaning-single-service-icon-outer{
+	margin-left:0px;
+}
+.cleaning-blog-2col-content,.cleaning-blog-full-width-page .cleaning-blog-2col-content,#cleaning-blog-grid-style .cleaning-blog-2col-content{
+	width: 90.22%;
+	margin-bottom:30px;
+}
+.cleaning-blog-2col-image img{
+	width:100%;
+}
+.portfolio-detail-widget{
+	margin-top:30px;
+}
+#portfolio-detail-page-about .col-md-4 {
+    margin-bottom: 30px;
+    width: 100%;
+}
+.cleaning-portfolio-grid-style{
+	float:left;
+	width:50%;
+	height:300px;
+}
+.plumbing-nav li a{
+	padding:0px 16px;
+}
+.plumb-about-page-counter-outer{
+	margin-bottom:30px;
+}
+.plum-news-content{
+	width:100%;
+	padding:20px;
+}
+.plumb-col2-outer img{
+	width:100%;
+}
+.plumb-contact-counter-outer{
+	margin-bottom:30px;
+}
+.cbp-fwslider img{
+	width:100%;
+}
+.banner-style4-content p,#banner-style4-content,.banner-style4-content h1{
+width:auto;
+
+}
+#banner-style4-content{
+padding:10px;
+}
+/* new changing */
+.cleaning-page-title,.our-clients,.cons-vision,.cleaning-blog-2col-page,.garden-news,.cleaning-portfolio-grid-page{
+padding:50px 0px;
+}
+.cleaning-404,.cleaning-footer .padding-top-90,.cleaning-footer .padding-top-60,.cleaning-aboutus .padding-top-100,.circle-bar-main-container,.cleaning-skills,.cleaning-aboutus-video-section,.cleaning-portfolio-detail-page{
+	padding-top:50px;
+}
+.cleaning-404-content p{
+	margin-bottom:50px;
+}
+.cleaning-404-content a{
+	margin-top:50px;
+}
+.cleaning-title h1{
+	font-size:30px;
+	line-height:30px;
+}
+.cleaning-title p,.cleaning-title,.about-page-service{
+	margin-bottom:30px;
+}
+.cleaning-aboutus,.cleaning-aboutus-video-section .cleaning-title{
+padding-bottom:0px;
+}
+.circle-bar-main-container{
+	padding-bottom:10px;
+}
+.cleaning-aboutus,.cleaning-aboutus-video-section .cleaning-title{
+padding-bottom:0px;
+}
+.circle-bar-main-container{
+	padding-bottom:30px;
+}
+ .cr-fot-50{
+	height:780px;
+ }
+#cleaning-all-services-page .cons-vision1,.cleaning-blog-2col-outer{
+	margin-bottom:10px;
+} 
+#cleaning-all-services-page .padding-bottom-50,.cleaning-blog-2col-page .padding-bottom-50{
+	padding-bottom:0px;
+	
+	}
+
+#portfolio-detail-page-about{
+	padding-bottom:20px;
+	padding-top:40px;
+}
+.cleaning-portfolio-grid-page .garden-pagination{
+	padding-top:0px;
+}
+#garden-blog-2col{
+	padding-bottom:0px;
+}
+.single-service-details .single-service-slider{
+	padding:50px 0px;
+}
+#cleaning-single-service .padding-bottom-100{
+	padding-bottom:20px;
+}
+#cleaning-single-service{
+	padding-top:50px;
+}
+#cleaning-single-service,#cleaning-skills{
+	padding-bottom:50px;
+}
+#cleaning-testimonial-section{
+	padding-bottom:0px;
+}
+.cleaning-skills .blue .slider-nav {
+	display:none;
+}
+.service-slide-image, .service-slide-content{
+	min-height:auto !important;
+}
+.cleaning-skills .cbp-fwslider ul li > img{
+	height:auto;
+}
+
+
+.clients-logo{
+	display:none;
+}
+.service-slide-content{
+	padding-bottom:50px;
+}
+.cleaning-footer .col-md-3{
+display:none;
+}
+.cr-fot-50 {
+   
+    min-height: 0px !important;
+    height: 0px !important;
+   
+}
+.social-bar-icons a .fa{
+	text-align:center;
+}
+.social-bar-icons{
+	text-align:left;
+}
+/*garden*/
+.garden-company-features {
+	padding-bottom:20px;
+	padding-top:40px;
+}
+.banner-style4-content p{
+	display:none;
+}
+#banner-slider3 .banner-item{
+	min-height:320px;
+}
+#banner-style4-content h1,.banner-style4-content h1,.garden-why-choose-main,.garden-info-content p,.gar-footer-title{
+	margin-bottom:50px;
+}
+.garden-gallery .garden-title,.garden-choose-inner-container .padding-top-100,.garden-team .garden-title{
+	padding-top:50px;
+}
+.garden-why-choose .garden-title{
+	padding:50px 0px !important;
+}
+.garden-title h1{
+	font-size:35px;
+}
+.garden-title h2{
+	font-size:22px;
+}
+.garden-why-choose-center-image{
+	display:none;
+}
+.garden-why-choose{
+	padding-bottom:0px;
+}
+.garden-form .garden-title,.garden-company-info .garden-title{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.garden-form{
+	padding-bottom:10px;
+}
+.garden-cmpany-awards .col-md-6 {
+    margin-bottom: 50px;
+}
+.garden-clients{
+	margin-top:140px;
+}
+.garden-title{
+	padding-left:30px;
+	padding-right:30px;
+}
+.footer-right-side {
+	padding-bottom:20px;
+}
+.garden-news .garden-title,.footer-right-side,.gar-widget{
+padding-top:0px;
+}
+.section-res-404 .padding-bottom-100{
+padding-bottom:50px;
+}
+.section-res-404 .padding-top-100{
+padding-top:50px;
+}
+.backhome{
+	margin-top:50px;
+}
+.garden-all-services{
+	padding-bottom:10px;
+	padding-top:50px;
+}
+.service1{
+	margin-bottom:10px;
+}
+#garden-blog-2col .garden-blog-details h2 a{
+	font-size:16px;
+}
+#garden-blog-2col .blog-main-container {
+   
+    margin-bottom: 30px;
+    min-height: auto;
+   
+}
+#garden-blog-2col .padding-bottom-50{
+	padding-bottom:0px;
+}
+#garden-blog-2col .garden-pagination{
+	margin-bottom:50px;
+	margin-top:20px;
+}
+.garden-news-res{
+	padding-bottom:50px !important;
+}
+.gar-blog-detail-image-comment{
+	margin-bottom:50px;
+}
+.garden-news-res .garden-blog-width-sidebar{
+margin-top:50px;
+}
+.gardneer-information{
+	padding-top:50px;
+}
+.gardneer-personalinformation .garden-title h1 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.gardneer-personalinformation .garden-title{
+	padding:0px;
+}
+.garden-contact-us-form {
+	padding-bottom:50px;
+}
+.gardneer-personalinformation-contact-form{
+	margin-top:0px;
+}
+.gardneer-personalinformation-contact-form-title{
+	background-repeat:repeat;
+}
+.abotus-counter-res .container{
+padding-bottom:30px;
+padding-top:50px;
+}
+
+.abotus-counter-res .col-md-3{
+margin-bottom:30px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	margin-bottom:50px;
+}
+.garden-gallery-fullwidth-res .garden-pagination {
+	padding-bottom:50px;
+	padding-top:0px;
+}
+
+.garden-one-service .garden-gallery-detail-title{
+	margin:30px 0px;
+}
+.garden-one-service .garden-service-tabber{
+	padding-bottom:0px;
+	padding-top:20px;
+}
+.garden-one-service{
+	padding-top:20px !important;
+}
+.garden-one-service .col-md-6{
+	width:50%;
+	float:left;
+	margin-bottom:30px;
+}
+.garden-why-choose-main{
+text-align:center;
+padding:30px 0px !important;
+}	
+.garden-why-choose-main{
+border:1px dotted #e6e6e6 !important;
+}
+.garden-why-choose-icon,.garden-why-choose-right-icon{
+	 left: 0;
+    margin: 0 auto;
+    right: 0 !important;
+    top: 0 !important;
+}
+.garden-why-choose-main{
+	margin-bottom:50px;
+}
+.hs4{
+	margin-bottom:50px !important;
+}
+.hs1{
+	margin-top:30px !important;
+}
+.hs2{
+margin-bottom:0px !important;
+}
+#garden-clients-res{
+	margin-top:0px !important;
+}
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:140px;
+}
+.counter-clients {
+    border: 1px solid #f1f1f1 !important;
+    margin: 10px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	display:none !important;
+}
+.garden-gallery-fullwidth-res .garden-pagination{
+margin-top:50px;
+}
+.garden-pricing-tabel-page{
+	padding-bottom:0px;
+	padding-top:100px;
+}
+.abou-pricing-top-res{
+	padding:30px 0px;
+}
+.garden-service-detail{
+	padding-top:50px;
+	padding-bottom:40px;
+}
+.garden-testimonial-res-page{
+	padding:50px 0px;
+}
+.garden-testimonial-res-page .text-center{
+	padding-top:0px;
+}
+/*construction*/
+
+
+#banner-slider2:hover .slick-next,#banner-slider2:hover .slick-prev{
+	display:none !important;
+	
+}
+.cons-title h1{
+	font-size:24px;
+	margin-bottom:10px;
+}
+.cons-vision{
+	padding-bottom:10px;
+}
+.cons-projects{
+	padding-top:40px;
+	padding-bottom:20px;
+}
+.cons-projects .module-title{
+	display:none;
+}
+.cons-do{
+	padding-bottom:0px;
+	padding-top:40px;
+}
+.cons-clients{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.cons-news,.cons-video,.cons-footer{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.news-images-sections{
+	display:none;
+}
+.cons-video-content-container{
+	margin-bottom:40px;
+}
+.cons-video-content{
+	width:100%;
+	margin-top:15px;
+}
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:40px;
+}
+.cons-clients-counter .counter-main-container .col-md-3{
+	margin-bottom:30px;
+	display:none;
+	}
+.main-title2{
+	padding:50px 0px;
+	padding-bottom:40px;
+}
+.sectioncons-res{
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.cons-404 h2{
+	margin-top:30px;
+}
+.sectioncons-res .backhome2{
+	margin-top:30px;
+}
+.cons-404 h1{
+	margin-bottom:30px;
+}	
+.cons-aboutus-news img{
+	display:none;
+}
+.cons-aboutus-news{
+	padding-top:0px;
+}
+.cons-aboutus-news .aboutus-page-news{
+	padding-top:20px;
+}
+.service-crane-image,.con-feature-service-outer-icon{
+	display:none;
+}	
+.con-feature-service-outer,.con-feature-service-outer:first-child{
+	margin-bottom:50px;
+	padding: 35px;
+    text-align: center;
+}
+.con-all-services-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.con-news-res{
+	padding-bottom:50px !important;
+}
+.constructioncontactus-page{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.constructioncontactus-page-form{
+	padding-top:30px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info:last-child{
+	margin-bottom:0px;
+}
+.cons-project-one-page-res{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res #construction-pagination{
+	margin-top:20px;
+}
+.cons-project-one-page-res .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res .cons-project-one-tabber{
+	display:none;
+}
+
+.cons-project-one-page-res2{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res2 #construction-pagination{
+	padding-top:50px;
+}
+.cons-project-one-page-res2 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res2 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res3{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res3 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res3 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res3 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res4{
+	padding-top:40px !important;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res4 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-project3-image-title{
+	padding-top:0px;
+}
+.cons-project-one-page-res4 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res4 .cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-detail-page{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.construction-testimonial-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.construction-testimonial-outer{
+	margin-bottom:40px;
+}
+/*plumbing*/
+.plumb-hestory,.plumb-services,.plumb-team,.plumb-callout{
+	padding:50px 0px;
+}
+#plumb-projects{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-news {
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.plumb-footer{
+	padding-top:0px;
+}
+.plum-news-main:last-child{
+	margin-bottom:0px !important;
+}
+.plumbing-title{
+	margin-bottom:30px;
+}
+.plumbing-title .view,.plum-ser-tabber,#owl-testimonial2 .owl-nav,#owl-testimonial3 .owl-nav,.plumbing-title .view2,.plum-image-widget{
+display:none;
+}
+.plumb-history-image{
+	display:none;
+}
+.plumb-services .cbp-fwslider ul li > img{
+	height:auto;
+}
+.plumb-ser-tab-content .tab-pane h1{
+	margin-top:30px;
+}
+#plumb-projects .garden-gallery-content{
+	padding:10px;
+}
+
+#plumb-projects .garden-gallery-image img{
+	height:auto;
+}
+.pluming-page-title h1{
+	font-size:35px;
+}
+.pluming-page-title,.plumbing-404-page{
+	padding:50px 0px;
+}
+.plumb-about-page-counter{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumbing-abot-page-skills{
+	padding:50px 0px;
+	padding-bottom:0px;
+}
+.plumbing-abot-page-skills-images{
+	display:none;
+}
+.plumbing-abot-page-skills-content h1,.plumbing-abot-page-skills-content .cleaning-title h2{
+	font-size:28px !important;
+	margin-bottom:10px !important;
+	line-height:28px !important;
+}
+.plumbing-abot-page-skills-content p{
+	margin-top:20px !important;
+}
+.plum-contact-info-res2{
+	padding:0px;
+	padding-top:30px;
+}
+.plum-contact-info-res{
+	padding-bottom:0px;
+	padding-top:0px;
+}
+.plumb-aboutus-page-clients{
+	display:none;
+}
+.plumb-blog-onecol-page{
+	padding-top:100px;
+	padding-bottom:50px;
+}
+.plumb-blog-onecol-page .gallery-border{
+	border:0px !important;
+}
+.plumb-blog-onecol-page .gallery-border .svg{
+	display:none;
+}
+.plumb-blog-onecol-page .plum-news-main{
+	padding-bottom:60px;
+}
+.plumb-blog-onecol-page .plum-news-main:last-child{
+	padding-bottom:50px !important;
+}
+.plumb-blog-onecol-page .plumb-news-inner {
+    margin-bottom: 30px;
+}
+.plumbing-col2-page{
+	padding:50px 0px;
+}
+.plumbing-col2-page .padding-bottom-50{
+	padding:0px;
+}
+.plumbing-col2-page .plumb-col2-outer{
+	margin-bottom:50px;
+}
+.plumbing-blog-2col-res{
+	padding-bottom:50px !important;
+}
+.plumbing-contactus-page-counter-section{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-contactus-info-section,.plumb-contactus-form-section{
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+.plumb-info-outer img,.plumb-info-outer-res{
+	display:none;
+	}
+.plumb-pricing-page{
+	padding-bottom:20px;
+	padding-top:50px;
+}	
+.plumbing-pagination-res{
+	padding-top:0px;
+}
+.plumbing-detail-page{
+	padding-top:50px;
+}
+
+.plumbing-related-projects {
+	padding:40px 0px;
+}	
+.garden-one-service .garden-one-service-details-title h1 {
+    font-size: 21px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.garden-one-service-details-small-title h1{
+	font-size:20px;
+}
+.garden-one-service-details-small-title{
+	margin:20px 0px;
+}
+.garden-one-service-ser #accordian,.garden-one-service-details-title{
+	margin-bottom:30px;
+}
+.garden-one-service-ser{
+	margin-top:0px;
+}
+.arden-service-tabber{
+	padding-bottom:0px;
+}
+.plumb-team-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumb-team-page-section .plumb-team-member {
+    margin-bottom:50px;
+}
+.plumb-team-page .col-md-4{
+	width:50%;
+	float:left;
+}
+.cleaning-top-bar ul li:last-child a{
+	display:none;
+}
+.cleaning-portfolio-tabber{
+	display:none;
+}
+/*new changing*/
+#cleaning-slide2 {
+    padding-right: 30px;
+    
+}
+.cleaning-staff-video img{
+	width:100%;
+	height:auto;
+}
+.cleaning-staff .col-md-7{
+	margin-top:30px !important;
+}
+.cleaning-skills .padding-top-90{
+	padding-top:40px;
+}
+.circle-bar-main-container .col-md-3{
+	width:50%;
+	float:left;
+}
+#cleaning-pricing-plan-res{
+	padding-top:40px;
+	padding-bottom:10px;
+}
+.cleaning-blog-2col-content .read-more{
+	position:relative;
+	z-index:9999;
+}
+.gar-comments-inner p{
+display:inline-block;
+}
+.portfolio-clients-res-full{
+	padding-bottom:40px;
+}
+.cleaning-portfolio-fullwidth-page .cleaning-title{
+	margin-bottom:0px;
+}
+.cleaning-portfolio-left-side{
+	margin-top:30px;
+}
+.cleaning-single-service-last-feature img{
+	width:100%;
+	height:auto;
+}
+.cleaning-single-service-last-feature:last-child{
+	margin-top:30px;
+}
+.padding-bottom-100-res{
+	padding-top:30px;
+}
+.cleaning-copy-right p{
+	line-height:20px;
+}
+#cleaning-services-res{
+	padding-top:20px !important;
+}
+#cleaning-contact-info-res{
+	padding-top:50px;
+	padding-bottom:0px;
+}
+.cleaning-staff{
+	padding-top:50px;
+}
+.progress-bar-main{
+	padding-top:0px;
+}
+.service-slide-content{
+	padding-top:35px !important;
+}
+}
+/*--------------------media query max-width 979--------------------*/
+
+@media screen and (min-width:668px) and (max-width:767px){
+
+.cleaning-nav li{
+    border-bottom: 1px solid #c6c6c6 !important;
+}
+
+.plumbing-top-bar, .plum-top-address {
+    display: none;
+}
+#plumbing-navbar .container {
+    padding: 0;
+}
+#plumbing-navbar .logo-section .pull-left {
+    float: none !important;
+    text-align: center;
+}
+#plumbing-navbar .navbar-nav{
+	margin:0px;
+	width:100%;
+}
+#plumbing-navbar  .navbar-collapse{
+	width:100%;
+}
+.plumbing-nav .dropdown .navbar-toggle{
+	position:absolute;
+	right:10px;
+	margin:0;
+	padding:0;
+	top:10px;
+}
+.plumbing-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.plumbing-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.plumbing-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.plumbing-nav li:hover:before,.plumbing-nav li:hover:after{
+	border:0px;
+	opacity:0;
+}
+.plumbing-nav li {
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+    padding: 5px 0;
+}
+#plumbing-navbar .navbar-collapse {
+    padding-bottom: 20px !important;
+}
+#plumbing-navbar .navbar-collapse {
+    width: 100% !important;
+}
+.plumb-quote {
+    display: none;
+}
+.plumb-history-image-content .row .col-md-6{
+	 float: left;
+    width: 50%;
+
+}
+.garden-company-features .col-md-6 .row .col-md-6 {
+    float: left;
+    width: 50%;
+}
+.banner-style4-content h1{
+	font-size:55px;
+}
+.construction-nav .dropdown:hover .dropdown-menu{
+opacity:0;
+display:none;
+z-index:-1;
+
+}
+.construction-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.construction-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+#construction-navbar{
+	padding-bottom:40px;
+}
+.construction-nav li a{
+	padding-bottom:0px;
+}
+
+.construction-nav li {
+    border-bottom: 1px solid #c6c6c6;
+}
+#construction-navbar .navbar-toggle {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.dropdown .navbar-toggle {
+   
+    margin:0px;
+	padding:0px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+.construction-submenu li a{
+	width:100%;
+}
+.construction-nav li a {
+    font-size: 14px;
+	padding-left:15px;
+}
+#construction-navbar .navbar-nav{
+	width:100%;
+}
+.construction-nav li a {
+    padding-bottom: 0;
+}
+.cleaning-nav li:first-child {
+    display: none;
+}
+.cleaning-nav li:first-child {
+    display: none;
+}
+.cleaning-nav li a:hover:after{
+	height:0;
+}
+.cleaning-nav li a{
+	padding:8px 17px !important;
+	padding-left:0px!important;
+}
+.cleaning-nav li a:hover:after{
+	height:0;
+}
+#cleaning-navbar .navbar-nav{
+	margin:0px;
+	padding-bottom:30px;
+}
+.cleaning-nav .dropdown:after{
+	content: "";
+	display:none;
+}
+.cleaning-nav .dropdown .navbar-toggle{
+	position:absolute;
+	right:0;
+	margin:0;
+	padding:0;
+	top:10px;
+}
+.cleaning-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.cleaning-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.cleaning-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.gardening-nav > li{
+	padding-bottom:0px !important;
+}
+.gardening-nav li a{
+	line-height:40px;
+}
+.gardening-submenu{
+	border-top:0px !important;
+}
+.gardening-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.gardening-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.gardening-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.gardening-submenu li a{
+	padding:0px !important;
+	padding-left:20px !important;
+	
+}
+#gardening-navbar #navbar-collapse-02{
+	width:100%;
+}
+.gardening-nav > li:last-child{
+	border-bottom:0px !important;
+}
+.menu ul li {
+    padding-left: 20px;
+   
+}
+#gardening-navbar{
+	padding-bottom:14px;
+}
+#gardening-navbar .navbar-nav{
+	margin-top:15px !important;
+	width:100%;
+}
+.gardening-nav > li {
+    border-bottom: 1px solid #c6c6c6;
+}
+.cleaning-staff .col-md-5{
+	    float: none;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.cleaning-staff{
+	padding-top:50px;
+}
+#cleaning-services-res{
+	padding-top:20px !important;
+}
+.service-slide-content{
+	padding-top:35px !important;
+}
+#cleaning-contact-info-res{
+	padding-top:50px;
+}
+.progress-bar-main{
+	padding-top:0px;
+}
+.cleaning-top-bar .col-sm-5 {
+    width: auto;
+}
+.cleaning-top-bar .col-sm-7 {
+    width: auto;
+}
+.plumbing-project-detail-form .submit{
+	width:200px;
+}
+#plumbing-all-services .col-md-6 img{
+	width:100%;
+	height:auto;
+}
+.garden-photo-gallery .garden-gallery-image {
+    float: left;
+    height: 300px;
+    width: 50%;
+}
+.garden-cmpany-awards .col-md-6 {
+    float: left;
+    margin-bottom: 50px;
+    width: 45% !important;
+}
+.garden-company-core-features .col-md-6 {
+    margin-bottom: 5px;
+}
+.garden-company-features .padding-top-20 img{
+	width:100%;
+	height:auto;
+}
+
+.garden-service-tabber .col-md-7{
+	margin-bottom:50px;
+}
+.garden-service-tabber .col-md-7 img{
+	width:100%;
+}
+.garden-choose-inner-container .padding-right-0{
+	padding-right:10px;
+}
+.garden-choose-inner-container .padding-left-0{
+	padding-left:10px;
+}
+.cons-clients-counter-about-res{
+	padding-top:130px !important;
+}
+.cons-projects-detail-tab-content .tab-pane img{
+	width:100%;
+	height:auto;
+}
+.project-sidebar{
+	width:40%;
+}
+.cleaning-portfolio-fullwidth-page{
+	padding:50px 0px;
+	padding-bottom:20px;
+}
+.construction-submenu{
+	background:none;
+}
+.cleaning-top-bar ul li{
+	margin-right:35px;
+}
+.cleaning-top-bar ul li:last-child{
+width:100%;
+	
+}
+.cleaning-top-bar ul li:last-child {
+    margin-top: 10px;
+    text-align: right;
+    width: 91%;
+}
+.cleaning-nav li a{
+	padding:20px 26px;
+}
+.cleaning-contact-info .col-md-4{
+	width:100%;
+	margin-bottom:30px;
+}
+.cleaning-service1{
+	text-align:left;
+	margin-bottom:50px;
+}
+.cleaning-services .col-md-6{
+	width:70%;
+	margin:0 auto;
+}
+.cleaning-staff-video{
+	margin-bottom:30px;
+}
+.progress-bar-image img{
+	width:100%;
+}
+.service-slide-image, .service-slide-content{
+	width:auto;
+	float:none;
+	}
+.blue .slider-for .slick-next{
+	right:43.3% !important;
+}	
+.clients-logo .row{
+	margin-bottom:0px;
+}
+.clients-logo .col-md-4{
+float: left;
+    margin-top: 20px;
+    width: auto;
+}
+.dark,.pricing-plan-details{
+	
+	margin-bottom:30px !important;
+}
+.dark{
+	
+	margin-bottom:40px !important;
+}
+div.chart:last-child {
+    margin: 0 auto;
+}
+.cleaning-footer .container{
+	top:0;
+}
+.construction-top-bar .col-md-8,.construction-top-bar .col-md-4{
+	width:auto;
+	float:left;
+}
+.construction-top-bar ul li{
+	margin-right:20px;
+}
+#construction-navbar .navbar-brand {
+    margin-right: 50px;
+    
+}
+.construction-nav li a{
+	margin-right:15px;
+}
+.con-free-quote{
+	display:none;
+}
+.cons-vision1{
+	
+}
+.cons-vision-details{
+	width:auto;
+}
+.cons-vision .col-md-4{
+	float:left;
+	width:50%;
+	margin-bottom:30px;
+}
+.project-tabs li{
+	display:list-item;
+	margin-bottom:20px;
+}
+.view-all-project{
+	float:none !important;
+}
+.tab-content .col-md-4{
+	float:left;
+	width:50%;
+}
+#cons-testi .slick-next{
+	right:10%;
+}
+#cons-testi .slick-prev{
+	left:10%;
+}
+.news-images-sections img{
+	width:100%;
+}
+.news-images-sections{
+	margin-bottom:30px;
+}
+.cons-main-video-container{
+	margin-top:30px;
+}
+.cons-footer-title{
+	margin-top:20px;
+}
+.counter-main-container .col-md-3,.counter-client-main-container .col-md-3{
+ float: left;
+    width: 50%;
+}
+.garden-det-quote a{
+	display:none;
+}
+.gardening-nav li a{
+	margin-right:20px;
+}
+#gardening-navbar .navbar-brand{
+	margin-right:60px;
+}
+#banner-slider3:hover .slick-next,#banner-slider3:hover .slick-prev{
+	display:none !important;
+	
+}
+.garden-social-bar:before{
+	right:0px;
+}
+.garden-social-bar .dotted-border{
+	border:1px dotted rgba(255,255,255,.2);
+	margin-bottom:5px;
+}
+.callout-content a{
+	margin-left:0px;
+	margin-top:20px;
+}
+.view-all-feature{
+	margin-bottom:20px;
+	display:inline-block;
+}
+#garden-gallery-fullwidth  .col-md-4, #garden-gallery-fullwidth  .col-md-3 {
+    float: left;
+    position: relative;
+    width: 50%;
+	height:auto;
+}
+.garden-photo-gallery-res .garden-gallery-image {
+    height: 300px;
+    position: relative;
+	width:100%;
+}
+.garden-gallery-image img{
+	width:100%;
+	height:100%;
+}
+.garden-why-choose-center-image{
+	margin:0px;
+	height:520px;
+}
+.width-40percent{
+	width:auto;
+	padding:15px;
+}
+.garden-form{
+	width:auto;
+	padding:0;
+}
+.width-68-percent{
+	width:100%;
+	padding:15px;
+}
+.garden-company-info{
+	width:auto;
+	margin:0px !important;
+}
+.garden-team-member {
+    float: left;
+    width: 25%;
+}
+.garden-client-content{
+	width:53%;
+}
+#gar-testi .slick-prev{
+	left:42%;
+}
+#gar-testi .slick-next{
+	left:46%;
+}
+.blog-main-container{
+	width:33%;
+	float:left;
+}
+.gar-widget {
+    float: left;
+    padding: 27px;
+    width: 100%;
+}
+.cl-fot-50,.cr-fot-50{
+	 width: 100% !important;
+	float:none !important;
+	height: 1024px;
+}
+.plumb-quote{
+	margin-right:7px;
+}
+.plumb-quote a{
+	width:150px;
+}
+.plumb-quote a:before{
+	width:158px;
+}
+.plumb-history-image{
+	margin-bottom:40px;
+	float:left;
+}
+.plumb-history-image-content{
+	width:auto;
+	float:left;
+}
+.plumb-history-image-content img,.plumb-ser img{
+	width:100%;
+}
+.plumb-tab-inner-slider{
+	margin-bottom:15px;
+}
+.plumbcallout-content a{
+	display:inline-block;
+	margin:20px 0px;
+}
+.plumb-news-inner{
+	margin-bottom:70px;
+}
+.plum-news-main:last-child .plumb-news-inner{
+	margin-bottom:0px;
+}
+.plum-image-widget{
+	margin-top:0px;
+}
+.plum-footer-widget{
+	margin-top:30px;
+}
+.garden-table{
+	margin-bottom:50px;
+	width:50%;
+	float:left;
+}
+.garden-table:nth-child(2){
+margin-bottom:80px;
+}
+.garden-table:last-child{
+	margin-bottom:0px;
+}
+.garden-testimonia{
+	width:60%;
+	float:left;
+}
+.testimonial-image{
+	width:40%;
+	float:left;
+}
+.garden-cmpany-awards .col-md-3{
+	width:50%;
+	float:left;
+}
+.about-read-more{
+	margin-bottom:30px;
+}
+#garden-blog-2col .blog-main-container{
+	width:50%;
+	float:left;
+	min-height:480px;
+}
+#garden-blog-2col .garden-blog-width-sidebar .blog-main-container{
+	width:100% !important;
+}
+.gardneer-personalinformation-contact-form{
+	margin-top:40px;
+}
+.gardneer-personalinformation-contact-form-title{
+	width:100%;
+}
+.gardneer-personalinformation .cleaning-contact-info {
+	margin-bottom:30px;
+}
+.garden-one-service,.garden-service-tabber .col-md-6{
+	margin-top:0px;
+}
+.garden-gallery-tabs li{
+	float:none;
+	margin-bottom:20px;
+	display:block;
+}
+.garden-gallery-tabs {
+	padding:0;
+}
+.garden-detail-accordian{
+	margin-bottom:30px;
+}
+.aboutus-page-news-details{
+	padding:30px;
+}
+#garden-blog-2col #cons-news-2col{
+	min-height: 550px;
+}
+.project-tab-content .cons-project1{
+	max-height:400px;
+}
+.cons-project3-image img{
+	width:100%;
+}
+.cons-project-detailpage-tabber ul li{
+	margin-bottom:10px;
+	border-right:1px solid #bfbfbf;
+}
+.cons-project-detailpage-tabber ul li:last-child{
+	margin-bottom:0px;
+}
+.tab-right-side-content{
+	width:auto;
+	margin-top:30px;
+}
+.constructioncontactus-page-map-70,.constructioncontactus-page-map-30{
+	width:100%;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+}
+.brochures-service-detail{
+	margin-bottom:30px;
+}
+.cons-service-detail-tab-content .tab-content .col-md-4 {
+    float: left;
+    width: 33%;
+}
+.con-feature-service-outer{
+	margin-bottom:30px;
+}
+.cleaning-title-name{
+	float:left;
+	width:50%;
+}
+.cleaning-404-content {
+	padding:30px;
+	padding-bottom:40px;
+}
+.progress-bar-image{
+	margin-top:60px;
+}
+.cleaning-aboutus-video-section:after{
+	height:140px;
+}
+.cleaning-pricing-plan-style2-outer{
+	float:left;
+	margin-bottom:30px;
+	width:50%;
+}
+
+.cleaning-pricing-plan-style2-inner:before{
+	width:100%;
+	border-left:none;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	margin:0 auto;
+	margin-bottom:150px;
+	margin-top:0px;
+}
+.cleaning-single-service-icon-outer{
+	margin-left:0px;
+}
+.cleaning-blog-2col-content,.cleaning-blog-full-width-page .cleaning-blog-2col-content,#cleaning-blog-grid-style .cleaning-blog-2col-content{
+	width: 90.22%;
+	margin-bottom:30px;
+}
+.cleaning-blog-2col-image img{
+	width:100%;
+}
+.portfolio-detail-widget{
+	margin-top:30px;
+}
+#portfolio-detail-page-about .col-md-4 {
+    margin-bottom: 30px;
+    width: 100%;
+}
+.cleaning-portfolio-grid-style{
+	float:left;
+	width:50%;
+	height:300px;
+}
+.plumbing-nav li a{
+	padding:0px 16px;
+}
+.plumb-about-page-counter-outer{
+	margin-bottom:30px;
+}
+.plum-news-content{
+	width:100%;
+	padding:20px;
+}
+.plumb-col2-outer img{
+	width:100%;
+}
+.plumb-contact-counter-outer{
+	margin-bottom:30px;
+}
+.cbp-fwslider img{
+	width:100%;
+}
+.banner-style4-content p,#banner-style4-content,.banner-style4-content h1{
+width:auto;
+
+}
+#banner-style4-content{
+padding:10px;
+}
+/* new changing */
+.cleaning-page-title,.our-clients,.cons-vision,.cleaning-blog-2col-page,.garden-news,.cleaning-portfolio-grid-page{
+padding:50px 0px;
+}
+.cleaning-404,.cleaning-footer .padding-top-90,.cleaning-footer .padding-top-60,.cleaning-aboutus .padding-top-100,.circle-bar-main-container,.cleaning-skills,.cleaning-aboutus-video-section,.cleaning-portfolio-detail-page{
+	padding-top:50px;
+}
+.cleaning-404-content p{
+	margin-bottom:50px;
+}
+.cleaning-404-content a{
+	margin-top:50px;
+}
+.cleaning-title h1{
+	font-size:30px;
+	line-height:30px;
+}
+.cleaning-title p,.cleaning-title,.about-page-service{
+	margin-bottom:30px;
+}
+.cleaning-aboutus,.cleaning-aboutus-video-section .cleaning-title{
+padding-bottom:0px;
+}
+.circle-bar-main-container{
+	padding-bottom:10px;
+}
+.cleaning-aboutus,.cleaning-aboutus-video-section .cleaning-title{
+padding-bottom:0px;
+}
+.circle-bar-main-container{
+	padding-bottom:30px;
+}
+ .cr-fot-50{
+	height:780px;
+ }
+#cleaning-all-services-page .cons-vision1,.cleaning-blog-2col-outer{
+	margin-bottom:10px;
+} 
+#cleaning-all-services-page .padding-bottom-50,.cleaning-blog-2col-page .padding-bottom-50{
+	padding-bottom:0px;
+	
+	}
+
+#portfolio-detail-page-about{
+	padding-bottom:20px;
+	padding-top:40px;
+}
+.cleaning-portfolio-grid-page .garden-pagination{
+	padding-top:0px;
+}
+#garden-blog-2col{
+	padding-bottom:0px;
+}
+.single-service-details .single-service-slider{
+	padding:50px 0px;
+}
+#cleaning-single-service .padding-bottom-100{
+	padding-bottom:20px;
+}
+#cleaning-single-service{
+	padding-top:50px;
+}
+#cleaning-single-service,#cleaning-skills{
+	padding-bottom:50px;
+}
+#cleaning-testimonial-section{
+	padding-bottom:0px;
+}
+.cleaning-skills .blue .slider-nav {
+	display:none;
+}
+.service-slide-image, .service-slide-content{
+	min-height:auto !important;
+}
+.cleaning-skills .cbp-fwslider ul li > img{
+	height:auto;
+}
+
+
+.clients-logo{
+	display:none;
+}
+.service-slide-content{
+	padding-bottom:50px;
+}
+.cleaning-footer .col-md-3{
+display:none;
+}
+.cr-fot-50 {
+   
+    min-height: 0px !important;
+    height: 0px !important;
+   
+}
+.social-bar-icons a .fa{
+	text-align:center;
+}
+.social-bar-icons{
+	text-align:left;
+}
+/*garden*/
+.garden-company-features {
+	padding-bottom:20px;
+	padding-top:40px;
+}
+.banner-style4-content p{
+	display:none;
+}
+#banner-slider3 .banner-item{
+	min-height:320px;
+}
+#banner-style4-content h1,.banner-style4-content h1,.garden-why-choose-main,.garden-info-content p,.gar-footer-title{
+	margin-bottom:50px;
+}
+.garden-gallery .garden-title,.garden-choose-inner-container .padding-top-100,.garden-team .garden-title{
+	padding-top:50px;
+}
+.garden-why-choose .garden-title{
+	padding:50px 0px !important;
+}
+.garden-title h1{
+	font-size:35px;
+}
+.garden-title h2{
+	font-size:22px;
+}
+.garden-why-choose-center-image{
+	display:none;
+}
+.garden-why-choose{
+	padding-bottom:0px;
+}
+.garden-form .garden-title,.garden-company-info .garden-title{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.garden-form{
+	padding-bottom:10px;
+}
+.garden-cmpany-awards .col-md-6 {
+    margin-bottom: 50px;
+}
+.garden-clients{
+	margin-top:140px;
+}
+.garden-title{
+	padding-left:30px;
+	padding-right:30px;
+}
+.footer-right-side {
+	padding-bottom:20px;
+}
+.garden-news .garden-title,.footer-right-side,.gar-widget{
+padding-top:0px;
+}
+.section-res-404 .padding-bottom-100{
+padding-bottom:50px;
+}
+.section-res-404 .padding-top-100{
+padding-top:50px;
+}
+.backhome{
+	margin-top:50px;
+}
+.garden-all-services{
+	padding-bottom:10px;
+	padding-top:50px;
+}
+.service1{
+	margin-bottom:10px;
+}
+#garden-blog-2col .garden-blog-details h2 a{
+	font-size:16px;
+}
+#garden-blog-2col .blog-main-container {
+   
+    margin-bottom: 30px;
+    min-height: auto;
+   
+}
+#garden-blog-2col .padding-bottom-50{
+	padding-bottom:0px;
+}
+#garden-blog-2col .garden-pagination{
+	margin-bottom:50px;
+	margin-top:20px;
+}
+.garden-news-res{
+	padding-bottom:50px !important;
+}
+.gar-blog-detail-image-comment{
+	margin-bottom:50px;
+}
+.garden-news-res .garden-blog-width-sidebar{
+margin-top:50px;
+}
+.gardneer-information{
+	padding-top:50px;
+}
+.gardneer-personalinformation .garden-title h1 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.gardneer-personalinformation .garden-title{
+	padding:0px;
+}
+.garden-contact-us-form {
+	padding-bottom:50px;
+}
+.gardneer-personalinformation-contact-form{
+	margin-top:0px;
+}
+.gardneer-personalinformation-contact-form-title{
+	background-repeat:repeat;
+}
+.abotus-counter-res .container{
+padding-bottom:30px;
+padding-top:50px;
+}
+
+.abotus-counter-res .col-md-3{
+margin-bottom:30px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	margin-bottom:50px;
+}
+.garden-gallery-fullwidth-res .garden-pagination {
+	padding-bottom:50px;
+	padding-top:0px;
+}
+
+.garden-one-service .garden-gallery-detail-title{
+	margin:30px 0px;
+}
+.garden-one-service .garden-service-tabber{
+	padding-bottom:0px;
+	padding-top:20px;
+}
+.garden-one-service{
+	padding-top:20px !important;
+}
+.garden-one-service .col-md-6{
+	width:50%;
+	float:left;
+	margin-bottom:30px;
+}
+.garden-why-choose-main{
+text-align:center;
+padding:30px 0px !important;
+}	
+.garden-why-choose-main{
+border:1px dotted #e6e6e6 !important;
+}
+.garden-why-choose-icon,.garden-why-choose-right-icon{
+	 left: 0;
+    margin: 0 auto;
+    right: 0 !important;
+    top: 0 !important;
+}
+.garden-why-choose-main{
+	margin-bottom:50px;
+}
+.hs4{
+	margin-bottom:50px !important;
+}
+.hs1{
+	margin-top:30px !important;
+}
+.hs2{
+margin-bottom:0px !important;
+}
+#garden-clients-res{
+	margin-top:0px !important;
+}
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:140px;
+}
+.counter-clients {
+    border: 1px solid #f1f1f1 !important;
+    margin: 10px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	display:none !important;
+}
+.garden-gallery-fullwidth-res .garden-pagination{
+margin-top:50px;
+}
+.garden-pricing-tabel-page{
+	padding-bottom:0px;
+	padding-top:100px;
+}
+.abou-pricing-top-res{
+	padding:30px 0px;
+}
+.garden-service-detail{
+	padding-top:50px;
+	padding-bottom:40px;
+}
+.garden-testimonial-res-page{
+	padding:50px 0px;
+}
+.garden-testimonial-res-page .text-center{
+	padding-top:0px;
+}
+/*construction*/
+
+
+#banner-slider2:hover .slick-next,#banner-slider2:hover .slick-prev{
+	display:none !important;
+	
+}
+.cons-title h1{
+	font-size:24px;
+	margin-bottom:10px;
+}
+.cons-vision{
+	padding-bottom:10px;
+}
+.cons-projects{
+	padding-top:40px;
+	padding-bottom:20px;
+}
+.cons-projects .module-title{
+	display:none;
+}
+.cons-do{
+	padding-bottom:0px;
+	padding-top:40px;
+}
+.cons-clients{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.cons-news,.cons-video,.cons-footer{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.news-images-sections{
+	display:none;
+}
+.cons-video-content-container{
+	margin-bottom:40px;
+}
+.cons-video-content{
+	width:100%;
+	margin-top:15px;
+}
+.cons-clients-counter{
+	padding-bottom:40px;
+	padding-top:40px;
+}
+.cons-clients-counter .counter-main-container .col-md-3{
+	margin-bottom:30px;
+	display:none;
+	}
+.main-title2{
+	padding:50px 0px;
+	padding-bottom:40px;
+}
+.sectioncons-res{
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.cons-404 h2{
+	margin-top:30px;
+}
+.sectioncons-res .backhome2{
+	margin-top:30px;
+}
+.cons-404 h1{
+	margin-bottom:30px;
+}	
+.cons-aboutus-news img{
+	display:none;
+}
+.cons-aboutus-news{
+	padding-top:0px;
+}
+.cons-aboutus-news .aboutus-page-news{
+	padding-top:20px;
+}
+.service-crane-image,.con-feature-service-outer-icon{
+	display:none;
+}	
+.con-feature-service-outer,.con-feature-service-outer:first-child{
+	margin-bottom:50px;
+	padding: 35px;
+    text-align: center;
+}
+.con-all-services-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.con-news-res{
+	padding-bottom:50px !important;
+}
+.constructioncontactus-page{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.constructioncontactus-page-form{
+	padding-top:30px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info:last-child{
+	margin-bottom:0px;
+}
+.cons-project-one-page-res{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res #construction-pagination{
+	margin-top:20px;
+}
+.cons-project-one-page-res .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res .cons-project-one-tabber{
+	display:none;
+}
+
+.cons-project-one-page-res2{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res2 #construction-pagination{
+	padding-top:50px;
+}
+.cons-project-one-page-res2 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res2 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res3{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res3 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res3 .cons-title-line{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res3 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-one-page-res4{
+	padding-top:40px !important;
+	padding-bottom:50px;
+}
+.cons-project-one-page-res4 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-project3-image-title{
+	padding-top:0px;
+}
+.cons-project-one-page-res4 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res4 .cons-project3-page{
+	margin-bottom:40px;
+}
+.cons-project-detail-page{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.construction-testimonial-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.construction-testimonial-outer{
+	margin-bottom:40px;
+}
+/*plumbing*/
+.plumb-hestory,.plumb-services,.plumb-team,.plumb-callout{
+	padding:50px 0px;
+}
+#plumb-projects{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-news {
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.plumb-footer{
+	padding-top:0px;
+}
+.plum-news-main:last-child{
+	margin-bottom:0px !important;
+}
+.plumbing-title{
+	margin-bottom:30px;
+}
+.plumbing-title .view,.plum-ser-tabber,#owl-testimonial2 .owl-nav,#owl-testimonial3 .owl-nav,.plumbing-title .view2,.plum-image-widget{
+display:none;
+}
+.plumb-history-image{
+	display:none;
+}
+.plumb-services .cbp-fwslider ul li > img{
+	height:auto;
+}
+.plumb-ser-tab-content .tab-pane h1{
+	margin-top:30px;
+}
+#plumb-projects .garden-gallery-content{
+	padding:10px;
+}
+
+#plumb-projects .garden-gallery-image img{
+	width:100%
+}
+.pluming-page-title h1{
+	font-size:35px;
+}
+.pluming-page-title,.plumbing-404-page{
+	padding:50px 0px;
+}
+.plumb-about-page-counter{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumbing-abot-page-skills{
+	padding:50px 0px;
+	padding-bottom:0px;
+}
+.plumbing-abot-page-skills-images{
+	display:none;
+}
+.plumbing-abot-page-skills-content h1,.plumbing-abot-page-skills-content .cleaning-title h2{
+	font-size:28px !important;
+	margin-bottom:10px !important;
+	line-height:28px !important;
+}
+.plumbing-abot-page-skills-content p{
+	margin-top:20px !important;
+}
+.plum-contact-info-res2{
+	padding:0px;
+	padding-top:30px;
+}
+.plum-contact-info-res{
+	padding-bottom:0px;
+	padding-top:0px;
+}
+.plumb-aboutus-page-clients{
+	display:none;
+}
+.plumb-blog-onecol-page{
+	padding-top:100px;
+	padding-bottom:50px;
+}
+.plumb-blog-onecol-page .gallery-border{
+	border:0px !important;
+}
+.plumb-blog-onecol-page .gallery-border .svg{
+	display:none;
+}
+.plumb-blog-onecol-page .plum-news-main{
+	padding-bottom:60px;
+}
+.plumb-blog-onecol-page .plum-news-main:last-child{
+	padding-bottom:50px !important;
+}
+.plumb-blog-onecol-page .plumb-news-inner {
+    margin-bottom: 30px;
+}
+.plumbing-col2-page{
+	padding:50px 0px;
+}
+.plumbing-col2-page .padding-bottom-50{
+	padding:0px;
+}
+.plumbing-col2-page .plumb-col2-outer{
+	margin-bottom:50px;
+}
+.plumbing-blog-2col-res{
+	padding-bottom:50px !important;
+}
+.plumbing-contactus-page-counter-section{
+	padding-bottom:20px;
+	padding-top:50px;
+}
+.plumb-contactus-info-section,.plumb-contactus-form-section{
+	padding-top:50px;
+	padding-bottom:50px;
+	
+}
+.plumb-info-outer img,.plumb-info-outer-res{
+	display:none;
+	}
+.plumb-pricing-page{
+	padding-bottom:20px;
+	padding-top:50px;
+}	
+.plumbing-pagination-res{
+	padding-top:0px;
+}
+.plumbing-detail-page{
+	padding-top:50px;
+}
+
+.plumbing-related-projects {
+	padding:40px 0px;
+}	
+.garden-one-service .garden-one-service-details-title h1 {
+    font-size: 21px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.garden-one-service-details-small-title h1{
+	font-size:20px;
+}
+.garden-one-service-details-small-title{
+	margin:20px 0px;
+}
+.garden-one-service-ser #accordian,.garden-one-service-details-title{
+	margin-bottom:30px;
+}
+.garden-one-service-ser{
+	margin-top:0px;
+}
+.arden-service-tabber{
+	padding-bottom:0px;
+}
+.plumb-team-page{
+	padding-bottom:0px;
+	padding-top:50px;
+}
+.plumb-team-page-section .plumb-team-member {
+    margin-bottom:50px;
+}
+.plumb-team-page .col-md-4{
+	width:50%;
+	float:left;
+}
+.cleaning-top-bar ul li:last-child a{
+	display:none;
+}
+.cleaning-portfolio-tabber{
+	display:none;
+}
+/*new changing*/
+#cleaning-slide2 {
+    padding-right: 30px;
+    
+}
+.cleaning-staff-video img{
+	width:100%;
+	height:auto;
+}
+.cleaning-staff .col-md-7{
+	margin-top:30px !important;
+}
+.cleaning-skills .padding-top-90{
+	padding-top:40px;
+}
+.circle-bar-main-container .col-md-3{
+	width:50%;
+	float:left;
+}
+#cleaning-pricing-plan-res{
+	padding-top:40px;
+	padding-bottom:10px;
+}
+.cleaning-blog-2col-content .read-more{
+	position:relative;
+	z-index:9999;
+}
+.gar-comments-inner p{
+display:inline-block;
+}
+.portfolio-clients-res-full{
+	padding-bottom:40px;
+}
+.cleaning-portfolio-fullwidth-page .cleaning-title{
+	margin-bottom:0px;
+}
+.cleaning-portfolio-left-side{
+	margin-top:30px;
+}
+.cleaning-single-service-last-feature img{
+	width:100%;
+	height:auto;
+}
+.cleaning-single-service-last-feature:last-child{
+	margin-top:30px;
+}
+.padding-bottom-100-res{
+	padding-top:30px;
+}
+.cleaning-copy-right p{
+	line-height:20px;
+}
+}
+@media screen  and (width:480px){
+.cr-fot-50 {
+    height: 750px !important;
+}
+
+}
+@media screen  and (width:380px){
+.cr-fot-50 {
+    height: 750px;
+}
+.cleaning-portfolio-left-side{
+	margin-top:30px;
+}
+}
+@media screen  and (width:384px){
+.blue .slick-dots{
+	bottom:-27px !important;
+}
+}
+@media screen  and (width:600px){
+.garden-photo-gallery .garden-gallery-image {
+    float: left;
+    height: 300px;
+    width: 50%;
+}
+
+#plumb-projects .garden-gallery-image {
+    margin-bottom: 0px;
+}
+#plumb-projects  .garden-photo-gallery .garden-gallery-image {
+    float: left;
+    height: auto;
+    width: 50%;
+}
+.garden-photo-gallery .garden-gallery-image img{
+	width:100%;
+	height:100%;
+}
+.garden-company-features .col-md-6 .row .col-md-6 {
+    float: left;
+    width: 50%;
+}
+.plumb-history-image-content .row .col-md-6{
+	 float: left;
+    width: 50%;
+
+}
+}
+@media screen  and (width:320px){
+.plum-new-date2{
+	display:none;
+}
+.garden-pricing-tabel-page {
+	padding-top:90px !important;
+}
+.portfolio-clients .counter-client-main-container .col-md-3{
+	padding:0px 15px !important;
+}
+.cleaning-portfolio-left-side{
+	margin-top:30px;
+}
+#construction-navbar .navbar-brand {
+    margin-right: 60px;
+   
+}
+.cons-aboutus-news-res{
+	padding-top:0px !important;
+}
+.cons-aboutus-news-res .aboutus-page-news-details h1{
+	font-size:24px !important;
+}
+.cons-clients-counter{
+	padding-left:20px;
+	padding-right:20px;
+}
+.info-main-box{
+	display:none;
+}
+.blue .slick-dots {
+    bottom: 0 !important;
+}
+}
+@media screen  and (width:240px){
+	.info-main-box{
+	display:none ;
+}
+}
+@media screen  and (min-width:240px) and (max-width: 667px){
+
+.banner-style3-content h1{
+	width:auto;
+	font-size:30px;
+	line-height:30px;
+}
+#cleaning-slide2 h1{
+	font-size:30px;
+}
+#cleaning-slide2 h2 {
+    font-size: 32px;
+    
+    line-height: 32px;
+}
+#cleaning-slide2{
+	text-align:left !important;
+}
+#banner-slider .banner-item {
+   
+    min-height: 310px;
+}
+.cleaning-top-bar .col-md-5{
+	text-align:center;
+	margin-bottom:10px;
+}
+.cleaning-top-bar li h3{
+	font-size:17px;
+	margin-bottom:10px;
+}
+.cleaning-top-bar ul li{
+	margin-right:0px;
+}
+.cleaning-top-bar ul li{
+	width:100%;
+	text-align:center;
+}
+
+.cleaning-nav li a{
+	padding:8px 17px;
+	padding-left:0px;
+}
+.cleaning-nav li a:hover:after{
+	height:0;
+}
+.info-content h4{
+	font-size:14px;
+}
+.info-content h2{
+	font-size:22px;
+}
+.info-image{
+	margin:0px;
+
+}
+.info-main-box{
+	margin-bottom:30px;
+}
+.cleaning-service1{
+	text-align:left;
+	margin-bottom:30px;
+}
+.service-main-image{
+	height:330px;
+	width:auto;
+}
+.cleaning-staff {
+	padding-bottom:30px;
+}
+.progress-small-image{
+	width:200px;
+}
+.blue .slider-nav .col-md-2{
+	width:100% !important;
+	margin-bottom:30px;
+}
+.service-slide-content{
+	width:auto;
+	padding-bottom:30px;
+}
+.service-slide-image{
+	width:auto;
+	
+}
+.blue .slider-for .slick-next{
+	right:29.3% !important
+}
+.blue .slider-for .slick-prev:hover,.blue .slider-for .slick-prev:focus,.blue .slider-for .slick-next:hover,.blue .slider-for .slick-next:focus
+{
+   
+	background:#00526e ;
+}
+.blue .slider-for .slick-dots li button:before{
+	font-size:66px !important;
+}
+.client-message{
+width:100%;
+margin-bottom:0px;
+
+}
+.clients-logo .row{
+	margin-bottom:0px;
+}
+.clients-logo .col-md-4,.dark{
+	
+	margin-bottom:50px !important;
+}
+div.chart:last-child{
+	margin:0 auto;
+}
+.pricing-plan-details{
+	margin-bottom:30px;
+}
+.cleaning-footer .container{
+	top:0;
+}
+.info-icon-details{
+	width:100%;
+	margin-top:30px;
+}
+.gardneer-personalinformation .info-icon-details{
+margin-top:10px;
+}
+.cleeaning-footer-nav ul li a{
+	padding-right:15px;
+}
+.cleaning-copy-right p{
+	margin-bottom:10px;
+}
+.cons-top-social{
+	text-align:center;
+}
+.construction-top-bar ul li{
+	margin-bottom:10px;
+}
+#construction-navbar .navbar-nav{
+	margin:0px;
+}
+.con-free-quote{
+	float:left;
+	margin-top:10px;
+}
+#construction-navbar  .navbar-toggle{
+	margin-bottom:0px;
+	margin-top:0px;
+}
+.clider2-content{
+	width:100%;
+}
+.slider-content2 h1{
+	font-size:30px;
+	line-height:30px;
+}
+.slider-content2 h2{
+	text-transform:capitalize;
+	font-size:22px;
+}
+.clider2-content-slide2 h1{
+font-size:30px;
+	line-height:30px;
+}
+.construction-slider{
+	height:300px;
+}
+#banner-slider2 .slider-content2,#banner-slider2 .slider-content2 .container{
+	min-height:300px;
+}
+.cons-vision1{
+	margin-bottom:30px;
+}
+.cons-vision-details{
+	width:95%;
+}
+
+.project-tabs li{
+	display:list-item;
+	margin-bottom:10px;
+}
+.view-all-project{
+	float:none !important;
+}
+#cons-testi .slick-next{
+	right:10px;
+}
+#cons-testi .slick-prev{
+	left:10px;
+}
+.news-images-sections img{
+	width:100%;
+}
+.news-images-sections{
+	margin-bottom:50px;
+}
+.news-images-sections  .pull-left{
+	float:none !important;
+}
+.cons-video-content,.cons-footer-title{
+	margin-top:20px;
+}
+.news-big-image{
+	position:relative;
+	border:0px;
+}
+#gardening-navbar .navbar-brand{
+	margin:0px;
+}
+.garden-det-quote a{
+	display:none !important;
+}
+#gardening-navbar .navbar-collapse{
+	float:none !important;
+}
+#gardening-navbar .navbar-nav{
+	margin:0px !important;
+}
+
+.banner-style4-content h1 {
+    
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    width: auto;
+}
+#banner-slider3:hover .slick-next,#banner-slider3:hover .slick-prev{
+	display:none !important;
+	
+}
+.garden-social-bar:before{
+	right:0px;
+}
+.garden-social-bar .dotted-border{
+	border:1px dotted rgba(255,255,255,.2);
+	margin-bottom:5px;
+}
+.social-bar-icons{
+	text-align:none;
+}
+.garden-company-features .col-md-6 img{
+	width:100%;
+}
+.garden-company-features .col-md-6{
+	margin-bottom:30px;
+}
+.garden-company-features .col-md-6:last-child{
+	margin-bottom:0px;
+}
+.callout-content {
+   
+    padding: 38px 22px;
+}
+.callout-content a{
+	margin-left:0px;
+	text-align:center;
+	margin-top:20px;
+}
+.garden-why-choose-center-image{
+	margin:0px;
+	height:520px;
+}
+.width-40percent{
+	width:auto;
+	padding:15px;
+}
+.garden-form{
+	width:auto;
+	padding:0;
+	padding-bottom:100px;
+}
+.width-68-percent{
+	width:100%;
+	padding:15px;
+}
+.garden-company-info{
+	width:auto;
+	margin:0px !important;
+}
+.garden-team-image img{
+	width:100%;
+}
+.garden-team-member,.blog-main-container{
+	margin-bottom:20px;
+}
+.garden-client-content{
+	width:auto;
+	margin-bottom:30px;
+	margin-top:30px;
+}
+#gar-testi .slick-next{
+	left:35%;
+}
+.cl-fot-50,.cr-fot-50{
+	 width: 100% !important;
+	float:none !important;
+	height: 1300px;
+}
+.plumb-top-content ul li{
+	display:list-item;
+}
+.plum-top-social{
+	float:left!important;
+	margin-top:15px;
+}
+.plum-top-address ul li{
+	margin-top:15px;
+}
+.plumb-quote{
+	display:none;
+}
+.plumb-history-image-inner .outer-image {
+    left: 0;
+    position: absolute;
+    top: 10px;
+}
+.plumb-history-image-inner{
+	margin-bottom:20px;
+}
+.plumbing-title h1{
+	font-size:18px;
+}
+.plumbing-title .view{
+	float:none !important;
+	display:inline-block;
+	margin:20px 0px;
+}
+.plumbcallout-content{
+	padding:38px 10px;
+}
+.plumbcallout-content a{
+	display:inline-block;
+	margin:20px 0px;
+}
+.plum-new-date{
+	right:0;
+}
+.plum-news-main {
+    margin-bottom: 60px;
+}
+.plum-footer-widget{
+	margin-top:30px;
+}
+.plum-image-widget{
+	margin-top:0px;
+}
+
+.plum-news-content{
+	width:auto;
+}
+.open .collapse{
+	display:block;
+}
+.garden-table{
+	margin-bottom:70px;
+}
+.garden-table:last-child{
+	margin-bottom:0px;
+}
+.gar-breadcum ul li a{
+	padding-left:5px;
+}
+.garden-testimonia-inner{
+	padding-left:40px;
+}
+.garden-testimonia-inner:before{
+	display:none;
+}
+.testimonial-image{
+	margin-top:30px;
+}
+.blog-details-inner-comments{
+	position:relative;
+	width:auto;
+	top:0px;
+	  transform: translateY(0%);
+}
+.ggar-comments-box2{
+	padding:0px;
+}
+.gar-comment-box-comments{
+	width:auto;
+	margin:30px 0px;
+}
+.gardneer-personalinformation-contact-form{
+	margin-top:0px;
+}
+.garden-gallery-tabs li{
+	float:none;
+	margin-bottom:20px;
+	display:block;
+}
+.garden-gallery-tabs {
+	padding:0;
+}
+.garden-detail-accordian{
+	margin-bottom:30px;
+}
+
+.aboutus-page-news-details{
+	padding:30px;
+}
+#con-blog-detail-image-comment .blog-details-inner-comments{
+	top:0;
+	transform:translateY(-0);
+}
+.cons-project-detailpage-tabber ul li{
+	margin-bottom:10px;
+	border-right:1px solid #bfbfbf;
+}
+.cons-project-detailpage-tabber ul li:last-child{
+	margin-bottom:0px;
+}
+.tab-right-side-content{
+	width:auto;
+	margin-top:30px;
+}
+.constructioncontactus-page-map-70,.constructioncontactus-page-map-30{
+	width:100%;
+}
+
+.brochures-service-detail{
+	margin-bottom:30px;
+}
+.construction-nav .dropdown:hover .dropdown-menu{
+opacity:0;
+display:none;
+z-index:-1;
+
+}
+.construction-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.construction-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+#construction-navbar{
+	padding-bottom:40px;
+}
+.construction-nav li a{
+	padding-bottom:0px;
+}
+.construction-nav .dropdown .navbar-toggle{
+	padding:0px;
+	padding-top:10px;
+	top:-35px;
+}
+.cleaning-breadcum{
+	text-align:left;
+}
+.cleaning-404-content{
+	padding:20px;
+	padding-bottom:35px;
+}
+.cleaning-aboutus-service-content,#cleaning-testimonial-section .client-message{
+	width:100%;
+	margin-top:30px;
+}
+.progress-bar-image{
+	margin-top:30px;
+}
+.cleaning-aboutus-video-section:after{
+	height:auto;
+}
+.cleaning-pricing-plan-style2-inner:before{
+	width:100%;
+	border-left:none;
+}
+.cleaning-pricing-plan-style2-outer{
+	margin-bottom:30px;
+}
+.cleaning-pricing-plan-style3-inner .hexagon:before, .cleaning-pricing-plan-style3-inner .hexagon:after{
+	border:none;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	width:auto;
+
+}
+.cleaning-single-service-icon-outer{
+	margin-left:0px;
+}
+.cleaning-single-service-last-feature:first-child{
+	margin-bottom:30px;
+ }
+.cleaning-blog-2col-content,.cleaning-blog-full-width-page .cleaning-blog-2col-content{
+	width:auto;
+	margin-top:0px;
+	margin-bottom:30px;
+}
+#cleaning-blog-grid-style .cleaning-blog-2col-content{
+	width:100%;
+}
+#cleaning-navbar .navbar-nav{
+	margin:0px;
+	padding-bottom:30px;
+}
+.cleaning-nav .dropdown:after{
+	content: "";
+	display:none;
+}
+.cleaning-nav .dropdown .navbar-toggle{
+	position:absolute;
+	right:0;
+	margin:0;
+	padding:0;
+	top:10px;
+}
+.cleaning-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.cleaning-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.cleaning-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+#plumbing-navbar .navbar-nav{
+	margin:0px;
+	width:100%;
+}
+#plumbing-navbar  .navbar-collapse{
+	width:100%;
+}
+.plumbing-nav .dropdown .navbar-toggle{
+	position:absolute;
+	right:10px;
+	margin:0;
+	padding:0;
+	top:10px;
+}
+.plumbing-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.plumbing-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.plumbing-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.plumbing-nav li:hover:before,.plumbing-nav li:hover:after{
+	border:0px;
+	opacity:0;
+}
+.plumbing-abot-page-skills-content .cleaning-title h2{
+	line-height:30px;
+}
+.plumb-about-page-counter-outer{
+	margin-bottom:30px;
+}
+.plumb-blog-onecol-page .plum-new-date{
+	right:0px;
+	top:0;
+}
+.plum-news-content{
+	padding:20px;
+}
+.plumb-contact-counter-outer{
+	margin-bottom:30px;
+}
+.plumb-tab-inner-slider{
+	margin-bottom:30px;
+}
+.gar-widget {
+    float: left;
+    padding: 27px;
+    width: auto;
+}
+.navbar-collapse.in{
+	overflow:hidden;
+}
+#gardening-navbar .navbar-collapse{
+	max-height:100% !important;
+}
+.lp-menu > ul > li:hover ul.sub-menu,
+.lp-join-user-info li:hover .lp-user-menu{
+	top:50px;
+	
+}
+
+.menu ul.sub-menu{
+left:20px;
+}
+.gardening-nav li:nth-child(5) .sub-menu{
+	display:none !important;
+} 
+
+.cleaning-staff .cleaning-title2{
+	margin-top:20px;
+
+}
+.cons-main-video-container{
+	margin-top:20px;
+
+}
+.banner-style4-content p,#banner-style4-content,.slider-content2 p{
+width:auto;
+display:none;
+}
+.garden-slider #banner-style4-content{
+display:block !important;
+}
+#banner-style4-content{
+padding:10px;
+}
+.banner-style4-content h1{
+font-size:28px;
+}
+#cleaning-slide2 {
+    padding: 10px;
+    width: auto;
+}
+.plumb-services .background-color-white{
+	padding:20px;
+}
+.plum-ser-tabber{
+	padding-left:0px;
+	padding-right:0px;
+}
+.plumb-client-message{
+	width:auto;
+	padding-bottom:30px;
+}
+.circle-bar-main-container{
+	padding-bottom:100px;
+}
+.garden-why-choose,.cleaning-pricing-plan{
+	padding-bottom:50px;
+}
+.cleaning-services{
+	padding-top:70px;
+}
+.cleaning-contact-info,.cleaning-staff{
+	padding-bottom:20px;
+}
+.cons-vision{
+	padding-bottom:70px;
+}
+.clients-logo .col-md-4:last-child{
+	margin-bottom:0px !important;
+}
+.cleaning-staff-video {
+    margin-bottom: 10px;
+    position: relative;
+}
+.cleaning-services{
+	padding-bottom:40px;
+}
+/* new changing */
+.cleaning-page-title,.our-clients,.cons-vision,.cleaning-blog-2col-page,.garden-news,.cleaning-portfolio-fullwidth-page,.cleaning-portfolio-grid-page,.garden-company-features{
+padding:30px 0px;
+}
+.cleaning-404,.cleaning-footer .padding-top-90,.cleaning-footer .padding-top-60,.cleaning-aboutus .padding-top-100,.circle-bar-main-container,.cleaning-skills,.cleaning-aboutus-video-section,.cleaning-portfolio-detail-page{
+	padding-top:30px;
+}
+.cleaning-404-content p,#cleaning-all-services-page .cons-vision1{
+	margin-bottom:30px;
+}
+.cleaning-404-content a{
+	margin-top:30px;
+}
+.cleaning-contact-form .cleaning-title h1{
+	font-size:34px;
+	margin-bottom:30px;
+}
+.cr-fot-50{
+	height:785px;
+}
+.col-md-4 .cleaning-title{
+	padding-top:35px !important;
+}
+.cleaning-contact-info,.cleaning-blog-2col-outer{
+	margin-bottom:0px;
+}
+.cleaning-footer .cleaning-contact-form:last-child,.cleaning-portfolio-grid-page .garden-pagination{
+	padding-top:0px;
+}
+.cleaning-title h1{
+	font-size:30px;
+	line-height:30px;
+}
+.cleaning-title p,.cleaning-title,.about-page-service{
+	margin-bottom:24px;
+}
+.cleaning-aboutus,.cleaning-aboutus-video-section .cleaning-title,#cleaning-all-services-page .padding-bottom-50,.cleaning-blog-2col-page .padding-bottom-50{
+padding-bottom:0px;
+}
+.circle-bar-main-container{
+	padding-bottom:10px;
+}
+.gar-comments-box{
+	padding-bottom:30px;
+	margin-bottom:30px;
+}
+.cleaning-contact-info{
+	padding-top:10px;
+}
+#portfolio-detail-page-about{
+	padding-bottom:10px;
+	padding-top:40px;
+}
+.portfolio-clients{
+	padding-bottom:30px;
+}
+#garden-blog-2col{
+	padding-bottom:0px;
+}
+.cleaning-pricing-plan,.cleaning-pricing-plan-style2,.cleaning-pricing-style3{
+padding-bottom:0px;
+padding-top:30px;
+}
+.cleaning-pricing-plan-style3-inner .hexagon{
+	margin-bottom:30px;
+	margin-top:0px;
+}
+.cleaning-pricing-plan-style3-inner .hexagon .text-center{
+	padding:20px;
+}
+.single-service-details .single-service-slider{
+	padding:30px 0px;
+}
+#cleaning-single-service .padding-bottom-100,#cleaning-testimonial-section{
+	padding-bottom:0px;
+}
+#cleaning-single-service,.cleaning-staff,.cleaning-skills  .padding-top-90{
+	padding-top:30px;
+}
+#cleaning-testimonial-section .item{
+	margin-bottom:0px;
+}
+#cleaning-testimonial-accord .panel-body p{
+	margin-top:20px;
+}
+#cleaning-skills{
+	padding-bottom:30px;
+}
+#cleaning-contact-info-res{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+#cleaning-services-res{
+	padding:0px;
+}
+.cleaning-skills .blue .margin-bottom-40{
+	margin-bottom:0px;
+}
+.service-slide-content{
+	padding-top:30px;
+}
+.slide-ser-line{
+	margin-bottom:20px;
+}
+.blue .slick-dots{
+	bottom:0px !important;
+}
+.cleaning-services .col-md-6{
+	display:none;
+}
+
+.cleaning-skills .blue .slider-nav {
+	display:none;
+}
+.service-slide-image{
+	min-height:auto;
+}
+.cleaning-skills .cbp-fwslider ul li > img{
+	height:auto;
+}
+.cleaning-nav li:first-child{
+	display:none;
+}
+.client-testmonial .client-image{
+	display:inherit;
+	margin:0 auto;
+}
+.clients-logo{
+	display:none;
+}
+.cleaning-nav li{
+	border-bottom:1px solid #c6c6c6;
+}
+/*--garden--*/
+.gardening-nav > li{
+	border-bottom:1px solid #c6c6c6;
+}
+.banner-style4-content p{
+	display:none;
+}
+#banner-slider3 .banner-item{
+	min-height:320px;
+}
+#banner-style4-content h1,.banner-style4-content h1,.garden-why-choose-main,.garden-info-content p,.gar-footer-title{
+	margin-bottom:30px;
+}
+.garden-gallery .garden-title,.garden-choose-inner-container .padding-top-100,.garden-team .garden-title{
+	padding-top:30px;
+}
+.garden-why-choose .garden-title,.main-title{
+	padding:30px 0px !important;
+}
+.garden-title h1{
+	font-size:35px;
+}
+.garden-title h2{
+	font-size:22px;
+}
+.garden-why-choose-center-image{
+	display:none;
+}
+.garden-why-choose{
+	padding-bottom:0px;
+}
+.garden-form .garden-title,.garden-company-info .garden-title{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.garden-form{
+	padding-bottom:10px;
+}
+.garden-cmpany-awards .col-md-6 {
+    margin-bottom: 30px;
+}
+.garden-clients{
+	margin-top:110px;
+}
+.garden-title{
+	padding-left:30px;
+	padding-right:30px;
+}
+.footer-right-side {
+	padding-bottom:20px;
+}
+.garden-news .garden-title,.footer-right-side,.gar-widget{
+padding-top:0px;
+}
+.section-res-404 .padding-bottom-100{
+padding-bottom:30px;
+}
+.section-res-404 .padding-top-100{
+padding-top:30px;
+}
+.backhome{
+	margin-top:30px;
+}
+.abotus-counter .container{
+	padding-top:30px;
+	padding-bottom:0px;
+}
+.abotus-counter .garden-cmpany-awards .col-md-3{
+margin-bottom:30px;
+	}
+#garden-clients-res{
+	margin-top:0px;
+}	
+.cons-clients-counter{
+	padding-bottom:30px;
+	padding-top:100px;
+}	
+.garden-company-features .col-md-6 {
+    margin-bottom: 5px;
+}
+.landscape-company h1{
+	font-size:24px;
+}
+.landscape-company h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 25px;
+    margin: 0 0 30px;
+}
+.garden-why-choose-main{
+text-align:center;
+padding:30px 0px;
+}	
+.garden-why-choose-main{
+border:1px dotted #e6e6e6 !important;
+}
+.garden-why-choose-icon,.garden-why-choose-right-icon{
+	 left: 0;
+    margin: 0 auto;
+    right: 0 !important;
+    top: 0 !important;
+}
+.garden-why-choose-main{
+	margin-bottom:50px;
+}
+.hs4,.hs2{
+	margin-bottom:30px !important;
+}
+.hs1{
+	margin-top:30px !important;
+}
+
+.gard-client-image {
+   
+    display: inherit;
+    margin: 0 auto;
+   
+    padding: 10px;
+   
+    width: 150px;
+}
+.garden-client-content p:before,#gar-testi button,.cleaning-footer .col-md-3{
+	display:none !important;
+}
+.garden-client-content p{
+	padding:0px;
+}
+.client-name{
+text-align:center;
+}
+.cr-fot-50 {
+    min-height: 0px !important;
+   height: 0px !important;
+}
+.social-bar-icons a .fa{
+	text-align:center;
+}
+.social-bar-icons{
+	text-align:left;
+}
+.counter-clients{
+	border:1px solid #f1f1f1 !important;
+	margin-bottom:30px;
+}
+
+.counter-client-main-container .col-md-3:last-child .counter-clients{
+	margin-bottom:0px;
+}
+.gar-breadcum ul li a:before,.gar-breadcum ul li:before{
+	display:none;
+}
+.gar-breadcum ul li{
+	padding-left:0px;
+}
+
+.garden-all-services{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.service1{
+	margin-bottom:30px;
+}
+.garden-all-services .garden-feature h2 {
+    font-size: 23px;
+    
+}
+#garden-blog-2col .padding-bottom-50{
+	padding-bottom:0px;
+}
+#garden-blog-2col .garden-pagination{
+	margin-bottom:30px;
+}
+.garden-news-res{
+	padding-bottom:30px !important;
+}
+.gar-blog-detail-image-comment{
+	margin-bottom:30px;
+}
+.garden-news-res .garden-blog-width-sidebar,.garden-blog-width-sidebar-res{
+margin-top:30px;
+}
+.gardneer-information{
+	padding-top:30px;
+}
+.gardneer-personalinformation .garden-title h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.gardneer-personalinformation .garden-title{
+	padding:0px;
+}
+.garden-contact-us-form {
+	padding-bottom:30px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	margin-bottom:30px;
+}
+.garden-gallery-fullwidth-res .garden-pagination {
+	padding-bottom:30px;
+	padding-top:0px;
+}
+.garden-one-service {
+	padding-top:30px;
+}
+.garden-one-service-details-small-title h1{
+	font-size:25px;
+	line-height:25px;
+}
+.garden-one-service .garden-gallery-detail-title{
+	margin:20px 0px;
+}
+.garden-one-service .garden-service-tabber{
+	padding-bottom:30px;
+	padding-top:10px;
+}
+.gar-breadcum ul li{
+	font-size:12px;
+}
+.gar-breadcum ul li a{
+	font-size:12px;
+}
+.garden-gallery-fullwidth-res .garden-pagination{
+	padding:30px 0px;
+}
+.garden-gallery-fullwidth-res .module-title{
+	display:none !important;
+}
+.abou-pricing-top h1 {
+   
+    font-size: 20px;
+   
+}
+.abou-pricing-top-res,.garden-pricing-tabel-page{
+	padding:30px 0px;
+}
+.garden-service-detail{
+	padding-top:30px;
+	padding-bottom:20px;
+}
+.garden-testimonial-res-page{
+	padding:30px 0px;
+}
+.garden-testimonial-res-page .row{
+	margin-bottom:20px;
+}
+.garden-testimonial-res-page .text-center{
+	padding-top:10px;
+}
+.footer-left-side{
+	padding-top:30px;
+}
+.footer-right-side{
+	padding-bottom:0px;
+}
+.gardening-nav > li{
+	padding-bottom:0px !important;
+}
+.gardening-nav li a{
+	line-height:40px;
+}
+.gardening-submenu{
+	border-top:0px !important;
+}
+.gardening-nav  .dropdown:hover .dropdown-menu{
+display:none;
+opacity:0;
+z-index:-1;
+
+}
+.gardening-nav .open:hover .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.gardening-nav .open .dropdown-menu{
+	opacity:1;
+	display:block;
+	z-index:9999;
+}
+.gardening-submenu li a{
+	padding:0px !important;
+	padding-left:10px !important;
+}
+.gardening-nav > li:last-child{
+	border-bottom:0px !important;
+}
+#gardening-navbar{
+	padding-bottom:14px;
+}
+#gardening-navbar .navbar-nav{
+	margin-top:15px !important;
+}
+/*construction*/
+.construction-top-bar ul li{
+	display:none;
+}
+.construction-top-bar ul li:first-child{
+	  border-bottom: 1px solid #aa7f43;
+    display: block !important;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.construction-nav li{
+	 border-bottom: 1px solid #c6c6c6;
+}
+.construction-nav li:last-child{
+	border-bottom:0px !important;
+}
+.con-free-quote{
+	display:none;
+}
+
+.construction-nav .dropdown .navbar-toggle {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+.construction-nav li a{
+	font-size:14px;
+}
+.construction-nav{
+	margin-top:20px !important;
+}
+#banner-slider2:hover .slick-next,#banner-slider2:hover .slick-prev{
+	display:none !important;
+	
+}
+.cons-title h1{
+	font-size:24px;
+	margin-bottom:10px;
+}
+.cons-vision{
+	padding-bottom:10px;
+}
+.cons-projects{
+	padding-top:30px;
+	padding-bottom:10px;
+}
+.cons-projects .module-title{
+	display:none;
+}
+.cons-do{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.cons-clients{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.cons-news,.cons-video,.cons-footer{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.news-images-sections{
+	display:none;
+}
+.cons-video-content-container{
+	margin-bottom:30px;
+}
+.cons-video-content{
+	width:100%;
+}
+.cons-clients-counter{
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.cons-clients-counter .counter-main-container .col-md-3{
+	margin-bottom:30px;
+}
+.main-title2{
+	padding:40px 0px;
+	padding-bottom:30px;
+}
+.sectioncons-res{
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.cons-404 h2{
+	margin-top:30px;
+}
+.sectioncons-res .backhome2{
+	margin-top:30px;
+}
+.cons-404 h1{
+	margin-bottom:30px;
+}
+.cons-aboutus-news img{
+	display:none;
+}
+.aboutus-page-news-details h1 {
+    
+    font-size: 28px;
+    line-height: 14px;
+}
+.cons-aboutus-news {
+	padding-top:30px;
+}
+.cons-vision-about-res .col-md-4{
+	margin-bottom:30px;
+}
+.con-all-services-page {
+	padding-bottom:0px;
+	padding-top:30px;
+	}
+.service-crane-image,.con-feature-service-outer-icon{
+	display:none;
+}	
+.con-feature-service-outer,.con-feature-service-outer:first-child{
+	margin-bottom:30px;
+	padding: 35px !important;
+    text-align: center;
+}	
+.cons-vision-ser-res .col-md-4{
+	margin-bottom:0px !important;
+}
+.con-news-res{
+	padding-bottom:30px !important;
+}
+.constructioncontactus-page{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.constructioncontactus-page-form{
+	padding-top:30px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info{
+	margin:40px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.constructioncontactus-page-map-30 .cleaning-contact-info:last-child{
+	margin-bottom:0px;
+}
+.cons-project-one-page-res{
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.cons-project-one-page-res #construction-pagination{
+	margin-top:0px;
+}
+.cons-project-one-page-res .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res2{
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.cons-project-one-page-res2 #construction-pagination{
+	padding-top:30px !important;
+}
+.cons-project-one-page-res2 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res2 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project-one-page-res3{
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.cons-project-one-page-res3 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-one-page-res3 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res3 .cons-project-one-tabber{
+	display:none;
+}
+.cons-project3-page{
+	margin-bottom:30px;
+}
+
+.cons-project-one-page-res4{
+	padding-top:30px !important;
+	padding-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-title-line{
+	margin-bottom:30px;
+}
+.cons-project-one-page-res4 .cons-project3-image-title{
+	padding-top:0px;
+}
+.cons-project-one-page-res4 #construction-pagination{
+	margin-top:0px !important;
+}
+.cons-project-detail-page{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.construction-testimonial-page{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.construction-testimonial-outer{
+	margin-bottom:30px;
+}
+/*plumbing*/
+.plumbing-nav li {
+    padding: 5px 0;
+  box-shadow:0 1px 0 rgba(255, 255, 255, 0.1) inset;
+}
+#plumbing-navbar .navbar-collapse{
+	padding-bottom:20px !important;
+}
+.plumbing-top-bar,.plum-top-address{
+	display:none;
+}
+#plumbing-navbar .logo-section .pull-left{
+	float:none !important;
+	text-align:center;
+}
+#plumbing-navbar .container{
+	padding:0px;
+}
+#plumbing-navbar .navbar-toggle .fa{
+	color:#fff;
+}
+#banner-slider4:hover .slick-next,#banner-slider4:hover .slick-prev,#banner-slider:hover .slick-next, #banner-slider:hover .slick-prev,#cleaning-slide2 p,.plumb-history-image-inner{
+	display:none !important;
+	
+}
+#banner-slider4 .banner-item {
+   
+    min-height: 300px;
+}
+#banner-slider4 h1 {
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.plumb-hestory,.plumb-services,.plumb-team,.plumb-callout{
+	padding:30px 0px;
+}
+#plumb-projects{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.plumb-news {
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.plumb-footer{
+	padding-top:0px;
+}
+.plum-news-main:last-child{
+	margin-bottom:0px !important;
+}
+.plumbing-title{
+	margin-bottom:20px;
+}
+.plumbing-title .view,.plum-ser-tabber,#owl-testimonial2 .owl-nav,#owl-testimonial3 .owl-nav,.plumbing-title .view2,.plum-image-widget{
+display:none;
+}
+
+#plumb-projects .garden-gallery-content{
+	padding:10px;
+}
+#plumb-projects .garden-gallery-content h2 a{
+	font-size:18px;
+}
+#plumb-projects .garden-gallery-image img{
+	height:auto;
+}
+#plumb-projects .gallery-border{
+	border:0px;
+}
+#plumb-projects .gallery-border .svg{
+	display:none;
+}
+.pluming-page-title h1{
+	font-size:30px;
+}
+.pluming-page-title,.plumbing-404-page{
+	padding:30px 0px;
+}
+.plumb-about-page-counter{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.plumbing-abot-page-skills{
+	padding:30px 0px;
+	padding-bottom:0px;
+}
+.plumbing-abot-page-skills-images{
+	display:none;
+}
+.plumbing-abot-page-skills-content h1,.plumbing-abot-page-skills-content .cleaning-title h2{
+	font-size:28px !important;
+	margin-bottom:10px !important;
+	line-height:28px !important;
+}
+.plumbing-abot-page-skills-content p{
+	margin-top:20px !important;
+}
+
+.plum-contact-info-res{
+	padding-bottom:0px;
+	padding-top:0px;
+}
+.plumb-aboutus-page-clients{
+	display:none;
+}
+
+.plumb-blog-onecol-page{
+	padding-top:70px;
+	padding-bottom:30px;
+}
+.plumb-blog-onecol-page .gallery-border{
+	border:0px !important;
+}
+.plumb-blog-onecol-page .gallery-border .svg{
+	display:none;
+}
+.plumb-blog-onecol-page .plum-news-main{
+	padding-bottom:60px;
+}
+.plumb-blog-onecol-page .plum-news-main:last-child{
+	padding-bottom:30px !important;
+}
+.plumbing-col2-page{
+	padding:30px 0px;
+}
+.plumbing-col2-page .padding-bottom-50{
+	padding:0px;
+}
+.plumbing-col2-page .plumb-col2-outer{
+	margin-bottom:30px;
+}
+.plumbing-blog-2col-res{
+	padding-bottom:30px !important;
+}
+
+.plumbing-contactus-page-counter-section{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.plumb-contactus-info-section,.plumb-contactus-form-section{
+	padding-top:30px;
+	padding-bottom:30px;
+	
+}
+.plumb-info-outer img,.plumb-info-outer-res{
+	display:none;
+	}
+.plumb-pricing-page{
+	padding-bottom:0px;
+	padding-top:20px;
+}	
+.plumbing-pagination-res{
+	padding-top:0px;
+}
+.plumbing-detail-page{
+	padding-top:30px;
+}
+.plumbing-project-detail-feature ul li{
+	font-size:14px;
+}
+.plumbing-project-detail-feature ul{
+	margin-bottom:30px;
+}
+.plumbing-related-projects {
+	padding:30px 0px;
+}
+.garden-one-service .garden-one-service-details-title h1 {
+    font-size: 21px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.garden-one-service-details-small-title h1{
+	font-size:20px;
+}
+.garden-one-service-details-small-title{
+	margin:20px 0px;
+}
+.garden-one-service-ser #accordian{
+	margin-bottom:30px;
+}
+.plumb-team-page{
+	padding-bottom:0px;
+	padding-top:30px;
+}
+.plumb-team-page-section .plumb-team-member {
+    margin-bottom:30px;
+}
+/*new change*/
+.cleaning-staff-video img{
+	width:100%;
+	height:auto;
+}
+.our-clients .cleaning-title {
+	padding:0px 25px;
+}
+.cleaning-top-bar .col-md-7{
+	display:none;
+}
+.cons-clients-counter{
+	padding-left:20px;
+	padding-right:20px;
+}
+.cons-news-2coll .garden-blog-details h2{
+    font-size: 26px;
+    line-height: 26px;
+}
+.cons-service-detail-tab-content .col-md-4 img{
+	width:100%;
+}
+.garden-pricing-tabel-page {
+	padding-top:90px !important;
+}
+.cons-socials{
+	float:left !important;
+}
+.cleaning-service1 h3{
+	margin-top:0px;
+}
+.progress-bar-main{
+	padding-top:0px;
+}
+.service-slide-content h1 {
+   
+    margin: 0 0 4px;
+}
+.slide-ser-paragraph a{
+	margin-top:20px;
+}
+.cons-vision1 img,.project-image > img,.blog-image-inner > img,.plumb-history-content-image > img,.cbp-fwslider ul li > img,.garden-gallery-image > img{
+	width:100%;
+	height:auto;
+	
+}
+.service-slide-image, .service-slide-content{
+	min-height:auto;
+}
+.cleaning-staff .col-md-5{
+	    float: none;
+    margin: 0 auto;
+    text-align: center;
+
+}
+}
